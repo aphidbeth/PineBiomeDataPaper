@@ -1,0 +1,42 @@
+Aligning reads from sample T2_7480 to ptabu index
+Aligning reads to target genomes and retaining both mathcing and non-matching reads
+45711749 reads; of these:
+  45711749 (100.00%) were paired; of these:
+    8277099 (18.11%) aligned concordantly 0 times
+    18083121 (39.56%) aligned concordantly exactly 1 time
+    19351529 (42.33%) aligned concordantly >1 times
+    ----
+    8277099 pairs aligned concordantly 0 times; of these:
+      206327 (2.49%) aligned discordantly 1 time
+    ----
+    8070772 pairs aligned 0 times concordantly or discordantly; of these:
+      16141544 mates make up the pairs; of these:
+        9252314 (57.32%) aligned 0 times
+        4299271 (26.63%) aligned exactly 1 time
+        2589959 (16.05%) aligned >1 times
+89.88% overall alignment rate
+Finished aligning paired reads for T2_7480
+Reads in TMPDIR:
+T2_7480.hostreads.1.fq.gz
+T2_7480.hostreads.2.fq.gz
+T2_7480.nonhostreads.1.fq.gz
+T2_7480.nonhostreads.2.fq.gz
+T2_7480.sam
+Copying across paired host reads and renaming
+Aligning reads from sample T2_7480 to ptabu index + other non target genomes and retaining the reads that don't match to the non host index (i.e. putative microbial reads)
+8277099 reads; of these:
+  8277099 (100.00%) were paired; of these:
+    7981460 (96.43%) aligned concordantly 0 times
+    280887 (3.39%) aligned concordantly exactly 1 time
+    14752 (0.18%) aligned concordantly >1 times
+    ----
+    7981460 pairs aligned concordantly 0 times; of these:
+      25169 (0.32%) aligned discordantly 1 time
+    ----
+    7956291 pairs aligned 0 times concordantly or discordantly; of these:
+      15912582 mates make up the pairs; of these:
+        14869467 (93.44%) aligned 0 times
+        929537 (5.84%) aligned exactly 1 time
+        113578 (0.71%) aligned >1 times
+10.18% overall alignment rate
+Finished extracting putative microbial reads for sample T2_7480
