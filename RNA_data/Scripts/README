@@ -1,0 +1,22 @@
+README
+
+This folder contains 4 scripts used for the RNA sequence data:
+
+Three of these were run on the crop diversity HPC:
+#---------------------------------------------------#
+
+1. Prepare_databases
+This downloads the genomes for mapping against and builds them into hisat2 indexes. One index for the host and another index for host,phix and organelle. 
+This was run in an interactive sesison. 
+
+2. run_snakemake_preprocessing
+This takes the RNA seq files from Novogene and concatenates those that were run over two sequencing lanes into a single file. 
+
+3. RNA_preprocessing & RNA_preprocessing_config
+This is a snakemake pipeline containing the filtering (fastp and sortmeRNA) and mapping of reads to the Hisat indexes. The config details the parameters use. 
+
+One script was run downstream in R
+#------------------------------------------------------------------------------------#
+
+4. Create_RNA_SI_table
+This parses the log files from the HPC scripts and gather the read counts and make a supplementary table 2.
