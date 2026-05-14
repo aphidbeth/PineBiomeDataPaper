@@ -1,0 +1,39 @@
+Read1 before filtering:
+total reads: 54542048
+total bases: 8181307200
+Q20 bases: 8067975707(98.6148%)
+Q30 bases: 7845585783(95.8965%)
+
+Read2 before filtering:
+total reads: 54542048
+total bases: 8181307200
+Q20 bases: 8052083516(98.4205%)
+Q30 bases: 7821256608(95.5991%)
+
+Read1 after filtering:
+total reads: 54073263
+total bases: 8053955855
+Q20 bases: 7962138108(98.86%)
+Q30 bases: 7757559279(96.3199%)
+
+Read2 after filtering:
+total reads: 54073263
+total bases: 8053861230
+Q20 bases: 7962797755(98.8693%)
+Q30 bases: 7761465930(96.3695%)
+
+Filtering result:
+reads passed filter: 108146526
+reads failed due to low quality: 705602
+reads failed due to too many N: 3604
+reads failed due to too short: 228364
+reads with adapter trimmed: 2928646
+bases trimmed due to adapters: 118991006
+reads with polyX in 3' end: 375945
+bases trimmed in polyX tail: 19942412
+
+Duplication rate: 42.8465%
+
+Insert size peak (evaluated by paired-end reads): 269
+
+# Filepaths redacted

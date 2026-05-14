@@ -1,0 +1,43 @@
+Read1 before filtering:
+total reads: 62737988
+total bases: 9410698200
+Q20 bases: 9264869623(98.4504%)
+Q30 bases: 8974183238(95.3615%)
+
+Read2 before filtering:
+total reads: 62737988
+total bases: 9410698200
+Q20 bases: 9210782693(97.8757%)
+Q30 bases: 8868556101(94.2391%)
+
+Read1 after filtering:
+total reads: 62105283
+total bases: 9269282503
+Q20 bases: 9148298693(98.6948%)
+Q30 bases: 8878863267(95.788%)
+
+Read2 after filtering:
+total reads: 62105283
+total bases: 9269151747
+Q20 bases: 9116784841(98.3562%)
+Q30 bases: 8809132830(95.0371%)
+
+Filtering result:
+reads passed filter: 124210566
+reads failed due to low quality: 1000968
+reads failed due to too many N: 61822
+reads failed due to too short: 202620
+reads with adapter trimmed: 2420036
+bases trimmed due to adapters: 96157496
+reads with polyX in 3' end: 382826
+bases trimmed in polyX tail: 16942220
+
+Duplication rate: 43.7234%
+
+Insert size peak (evaluated by paired-end reads): 269
+
+JSON report: /mnt/shared/scratch/bmoore/RNAseq_preparation/logs/fastp/T2_7396_fastp_report.json
+HTML report: /mnt/shared/scratch/bmoore/RNAseq_preparation/logs/fastp/T2_7396_fastp_report.html
+
+fastp -i /mnt/shared/scratch/bmoore/RNAseq_preparation/data/raw/T2_7396_R1.fq.gz -I /mnt/shared/scratch/bmoore/RNAseq_preparation/data/raw/T2_7396_R2.fq.gz -o /mnt/shared/scratch/bmoore/RNAseq_preparation/data/processed/T2_7396_cleaned_R1.fastq.gz -O /mnt/shared/scratch/bmoore/RNAseq_preparation/data/processed/T2_7396_cleaned_R2.fastq.gz --thread 4 --qualified_quality_phred 20 --length_required 50 --trim_poly_x --html /mnt/shared/scratch/bmoore/RNAseq_preparation/logs/fastp/T2_7396_fastp_report.html --json /mnt/shared/scratch/bmoore/RNAseq_preparation/logs/fastp/T2_7396_fastp_report.json 
+fastp v0.23.4, time used: 333 seconds
