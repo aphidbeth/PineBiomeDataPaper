@@ -1,0 +1,594 @@
+Sample_ID,Sample_description,Genotype,Timepoint,Extraction_plate,Well,Classification,Population,Family,Field_Row,Field_Column,Field_Block,NR_AUDPS_raw,NR_AUDPS_raw_group,DNB_AUDPS_raw,DNB_AUDPS_raw_group,Metatranscriptomics
+GE9-7002-T1-ITS,Pinus sylvestris needles collected from tree genotype 7002 at timepoint T1,7002,T1,EP2,G09,"""Central Atlantic""",GE,GE9,7,1,A,-6.766666666,Susceptible,56.66666667,Susceptible,Yes
+GE9-7002-T2-ITS,Pinus sylvestris needles collected from tree genotype 7002 at timepoint T2,7002,T2,EP4,E07,"""Central Atlantic""",GE,GE9,7,1,A,-6.766666666,Susceptible,56.66666667,Susceptible,Yes
+GE9-7002-T3-ITS,Pinus sylvestris needles collected from tree genotype 7002 at timepoint T3,7002,T3,EP7,E06,"""Central Atlantic""",GE,GE9,7,1,A,-6.766666666,Susceptible,56.66666667,Susceptible,Yes
+BE4-7003-T1-ITS,Pinus sylvestris needles collected from tree genotype 7003 at timepoint T1,7003,T1,EP2,G11,"""Hyper-oceanic""",BE,BE4,6,1,A,-9.3,Average,41.86666667,Average,No
+BE4-7003-T2-ITS,Pinus sylvestris needles collected from tree genotype 7003 at timepoint T2,7003,T2,EP4,D01,"""Hyper-oceanic""",BE,BE4,6,1,A,-9.3,Average,41.86666667,Average,No
+BE4-7003-T3-ITS,Pinus sylvestris needles collected from tree genotype 7003 at timepoint T3,7003,T3,EP7,D05,"""Hyper-oceanic""",BE,BE4,6,1,A,-9.3,Average,41.86666667,Average,No
+GT8-7009-T1-ITS,Pinus sylvestris needles collected from tree genotype 7009 at timepoint T1,7009,T1,EP3,C01,Cairngorms,GT,GT8,8,1,B,-10.93333333,Average,44.93333333,Susceptible,No
+GT8-7009-T2-ITS,Pinus sylvestris needles collected from tree genotype 7009 at timepoint T2,7009,T2,EP5,H05,Cairngorms,GT,GT8,8,1,B,-10.93333333,Average,44.93333333,Susceptible,No
+GT8-7009-T3-ITS,Pinus sylvestris needles collected from tree genotype 7009 at timepoint T3,7009,T3,EP8,G04,Cairngorms,GT,GT8,8,1,B,-10.93333333,Average,44.93333333,Susceptible,No
+CG6-7014-T2-ITS,Pinus sylvestris needles collected from tree genotype 7014 at timepoint T2,7014,T2,EP5,D12,"""Hyper-oceanic""",CG,CG6,3,1,B,-11.96666667,Average,20.26666667,Average,No
+CG6-7014-T3-ITS,Pinus sylvestris needles collected from tree genotype 7014 at timepoint T3,7014,T3,EP8,E10,"""Hyper-oceanic""",CG,CG6,3,1,B,-11.96666667,Average,20.26666667,Average,No
+BE7-7019-T1-ITS,Pinus sylvestris needles collected from tree genotype 7019 at timepoint T1,7019,T1,EP1,H10,"""Hyper-oceanic""",BE,BE7,6,1,C,-9.766666666,Average,31.86666667,Average,No
+BE7-7019-T2-ITS,Pinus sylvestris needles collected from tree genotype 7019 at timepoint T2,7019,T2,EP4,E09,"""Hyper-oceanic""",BE,BE7,6,1,C,-9.766666666,Average,31.86666667,Average,No
+BE7-7019-T3-ITS,Pinus sylvestris needles collected from tree genotype 7019 at timepoint T3,7019,T3,EP8,D04,"""Hyper-oceanic""",BE,BE7,6,1,C,-9.766666666,Average,31.86666667,Average,No
+BW2-7025-T1-ITS,Pinus sylvestris needles collected from tree genotype 7025 at timepoint T1,7025,T1,EP3,B04,"""Central Atlantic""",BW,BW2,8,1,D,-10.26666667,Average,12.93333333,Resistant,Yes
+BW2-7025-T2-ITS,Pinus sylvestris needles collected from tree genotype 7025 at timepoint T2,7025,T2,EP5,D02,"""Central Atlantic""",BW,BW2,8,1,D,-10.26666667,Average,12.93333333,Resistant,Yes
+BW2-7025-T3-ITS,Pinus sylvestris needles collected from tree genotype 7025 at timepoint T3,7025,T3,EP7,D04,"""Central Atlantic""",BW,BW2,8,1,D,-10.26666667,Average,12.93333333,Resistant,Yes
+RM6-7031-T1-ITS,Pinus sylvestris needles collected from tree genotype 7031 at timepoint T1,7031,T1,EP3,F03,Cairngorms,RM,RM6,2,1,D,-9.4,Average,29.2,Average,No
+RM6-7031-T2-ITS,Pinus sylvestris needles collected from tree genotype 7031 at timepoint T2,7031,T2,EP5,G05,Cairngorms,RM,RM6,2,1,D,-9.4,Average,29.2,Average,No
+RM6-7031-T3-ITS,Pinus sylvestris needles collected from tree genotype 7031 at timepoint T3,7031,T3,EP7,G08,Cairngorms,RM,RM6,2,1,D,-9.4,Average,29.2,Average,No
+AC7-7032-T1-ITS,Pinus sylvestris needles collected from tree genotype 7032 at timepoint T1,7032,T1,EP3,H01,Cairngorms,AC,AC7,1,1,D,-8.7,Average,27.6,Average,No
+AC7-7032-T2-ITS,Pinus sylvestris needles collected from tree genotype 7032 at timepoint T2,7032,T2,EP5,F02,Cairngorms,AC,AC7,1,1,D,-8.7,Average,27.6,Average,No
+AC7-7032-T3-ITS,Pinus sylvestris needles collected from tree genotype 7032 at timepoint T3,7032,T3,EP7,C09,Cairngorms,AC,AC7,1,1,D,-8.7,Average,27.6,Average,No
+BW6-7035-T1-ITS,Pinus sylvestris needles collected from tree genotype 7035 at timepoint T1,7035,T1,EP3,E01,"""Central Atlantic""",BW,BW6,6,2,A,-9.35,Average,50.4,Susceptible,No
+BW6-7035-T2-ITS,Pinus sylvestris needles collected from tree genotype 7035 at timepoint T2,7035,T2,EP4,D08,"""Central Atlantic""",BW,BW6,6,2,A,-9.35,Average,50.4,Susceptible,No
+BW6-7035-T3-ITS,Pinus sylvestris needles collected from tree genotype 7035 at timepoint T3,7035,T3,EP7,G05,"""Central Atlantic""",BW,BW6,6,2,A,-9.35,Average,50.4,Susceptible,No
+BB2-7039-T1-ITS,Pinus sylvestris needles collected from tree genotype 7039 at timepoint T1,7039,T1,EP2,D07,Cairngorms,BB,BB2,2,2,A,-6.9,Susceptible,39,Average,No
+BB2-7039-T2-ITS,Pinus sylvestris needles collected from tree genotype 7039 at timepoint T2,7039,T2,EP6_and_EP9,E04,Cairngorms,BB,BB2,2,2,A,-6.9,Susceptible,39,Average,No
+BB2-7039-T3-ITS,Pinus sylvestris needles collected from tree genotype 7039 at timepoint T3,7039,T3,EP7,H02,Cairngorms,BB,BB2,2,2,A,-6.9,Susceptible,39,Average,No
+GE6-7040-T1-ITS,Pinus sylvestris needles collected from tree genotype 7040 at timepoint T1,7040,T1,EP2,B11,"""Central Atlantic""",GE,GE6,1,2,A,-5.6,Susceptible,119.4666667,Susceptible,No
+GE6-7040-T2-ITS,Pinus sylvestris needles collected from tree genotype 7040 at timepoint T2,7040,T2,EP4,G08,"""Central Atlantic""",GE,GE6,1,2,A,-5.6,Susceptible,119.4666667,Susceptible,No
+GE6-7040-T3-ITS,Pinus sylvestris needles collected from tree genotype 7040 at timepoint T3,7040,T3,EP7,H01,"""Central Atlantic""",GE,GE6,1,2,A,-5.6,Susceptible,119.4666667,Susceptible,No
+AC2-7049-T1-ITS,Pinus sylvestris needles collected from tree genotype 7049 at timepoint T1,7049,T1,EP1,C10,Cairngorms,AC,AC2,8,2,C,-10.66666667,Average,21.8,Average,No
+AC2-7049-T2-ITS,Pinus sylvestris needles collected from tree genotype 7049 at timepoint T2,7049,T2,EP4,D04,Cairngorms,AC,AC2,8,2,C,-10.66666667,Average,21.8,Average,No
+AC2-7049-T3-ITS,Pinus sylvestris needles collected from tree genotype 7049 at timepoint T3,7049,T3,EP8,H02,Cairngorms,AC,AC2,8,2,C,-10.66666667,Average,21.8,Average,No
+AC1-7050-T1-ITS,Pinus sylvestris needles collected from tree genotype 7050 at timepoint T1,7050,T1,EP3,F03,Cairngorms,AC,AC1,7,2,C,-10.23333333,Average,18.13333333,Average,No
+AC1-7050-T2-ITS,Pinus sylvestris needles collected from tree genotype 7050 at timepoint T2,7050,T2,EP4,A06,Cairngorms,AC,AC1,7,2,C,-10.23333333,Average,18.13333333,Average,No
+AC1-7050-T3-ITS,Pinus sylvestris needles collected from tree genotype 7050 at timepoint T3,7050,T3,EP8,F02,Cairngorms,AC,AC1,7,2,C,-10.23333333,Average,18.13333333,Average,No
+GE9-7053-T1-ITS,Pinus sylvestris needles collected from tree genotype 7053 at timepoint T1,7053,T1,EP1,C04,"""Central Atlantic""",GE,GE9,4,2,C,-5.633333334,Susceptible,23.86666667,Average,Yes
+GE9-7053-T2-ITS,Pinus sylvestris needles collected from tree genotype 7053 at timepoint T2,7053,T2,EP4,F03,"""Central Atlantic""",GE,GE9,4,2,C,-5.633333334,Susceptible,23.86666667,Average,Yes
+GE9-7053-T3-ITS,Pinus sylvestris needles collected from tree genotype 7053 at timepoint T3,7053,T3,EP8,B09,"""Central Atlantic""",GE,GE9,4,2,C,-5.633333334,Susceptible,23.86666667,Average,Yes
+BB2-7055-T1-ITS,Pinus sylvestris needles collected from tree genotype 7055 at timepoint T1,7055,T1,EP1,E06,Cairngorms,BB,BB2,2,2,C,-2.233333334,Susceptible,27.6,Average,Yes
+BB2-7055-T2-ITS,Pinus sylvestris needles collected from tree genotype 7055 at timepoint T2,7055,T2,EP4,C02,Cairngorms,BB,BB2,2,2,C,-2.233333334,Susceptible,27.6,Average,Yes
+BB2-7055-T3-ITS,Pinus sylvestris needles collected from tree genotype 7055 at timepoint T3,7055,T3,EP6_and_EP9,G01,Cairngorms,BB,BB2,2,2,C,-2.233333334,Susceptible,27.6,Average,Yes
+RM6-7065-T1-ITS,Pinus sylvestris needles collected from tree genotype 7065 at timepoint T1,7065,T1,EP2,F10,Cairngorms,RM,RM6,8,3,A,-12.8,Resistant,59.33333334,Susceptible,No
+RM6-7065-T2-ITS,Pinus sylvestris needles collected from tree genotype 7065 at timepoint T2,7065,T2,EP4,A04,Cairngorms,RM,RM6,8,3,A,-12.8,Resistant,59.33333334,Susceptible,No
+RM6-7065-T3-ITS,Pinus sylvestris needles collected from tree genotype 7065 at timepoint T3,7065,T3,EP7,B10,Cairngorms,RM,RM6,8,3,A,-12.8,Resistant,59.33333334,Susceptible,No
+BE2-7069-T1-ITS,Pinus sylvestris needles collected from tree genotype 7069 at timepoint T1,7069,T1,EP2,G10,"""Hyper-oceanic""",BE,BE2,4,3,A,-3.933333334,Susceptible,95.73333334,Susceptible,Yes
+BE2-7069-T2-ITS,Pinus sylvestris needles collected from tree genotype 7069 at timepoint T2,7069,T2,EP4,C03,"""Hyper-oceanic""",BE,BE2,4,3,A,-3.933333334,Susceptible,95.73333334,Susceptible,Yes
+BE2-7069-T3-ITS,Pinus sylvestris needles collected from tree genotype 7069 at timepoint T3,7069,T3,EP7,G07,"""Hyper-oceanic""",BE,BE2,4,3,A,-3.933333334,Susceptible,95.73333334,Susceptible,Yes
+CG2-7072-T1-ITS,Pinus sylvestris needles collected from tree genotype 7072 at timepoint T1,7072,T1,EP2,B05,"""Hyper-oceanic""",CG,CG2,1,3,A,-15.86666667,Resistant,15.93333333,Average,Yes
+CG2-7072-T2-ITS,Pinus sylvestris needles collected from tree genotype 7072 at timepoint T2,7072,T2,EP4,D10,"""Hyper-oceanic""",CG,CG2,1,3,A,-15.86666667,Resistant,15.93333333,Average,Yes
+CG2-7072-T3-ITS,Pinus sylvestris needles collected from tree genotype 7072 at timepoint T3,7072,T3,EP7,C11,"""Hyper-oceanic""",CG,CG2,1,3,A,-15.86666667,Resistant,15.93333333,Average,Yes
+GC2-7078-T1-ITS,Pinus sylvestris needles collected from tree genotype 7078 at timepoint T1,7078,T1,EP2,G03,"""Central Atlantic""",GC,GC2,3,3,B,-16.23333333,Resistant,42.53333333,Average,Yes
+GC2-7078-T2-ITS,Pinus sylvestris needles collected from tree genotype 7078 at timepoint T2,7078,T2,EP5,H04,"""Central Atlantic""",GC,GC2,3,3,B,-16.23333333,Resistant,42.53333333,Average,Yes
+GC2-7078-T3-ITS,Pinus sylvestris needles collected from tree genotype 7078 at timepoint T3,7078,T3,EP8,G07,"""Central Atlantic""",GC,GC2,3,3,B,-16.23333333,Resistant,42.53333333,Average,Yes
+CG8-7084-T1-ITS,Pinus sylvestris needles collected from tree genotype 7084 at timepoint T1,7084,T1,EP1,F12,"""Hyper-oceanic""",CG,CG8,5,3,C,-15.33333333,Resistant,22.93333333,Average,No
+CG8-7084-T2-ITS,Pinus sylvestris needles collected from tree genotype 7084 at timepoint T2,7084,T2,EP4,C05,"""Hyper-oceanic""",CG,CG8,5,3,C,-15.33333333,Resistant,22.93333333,Average,No
+CG8-7084-T3-ITS,Pinus sylvestris needles collected from tree genotype 7084 at timepoint T3,7084,T3,EP8,C04,"""Hyper-oceanic""",CG,CG8,5,3,C,-15.33333333,Resistant,22.93333333,Average,No
+GC1-7085-T1-ITS,Pinus sylvestris needles collected from tree genotype 7085 at timepoint T1,7085,T1,EP1,C02,"""Central Atlantic""",GC,GC1,4,3,C,-11.05,Average,46.86666667,Susceptible,Yes
+GC1-7085-T2-ITS,Pinus sylvestris needles collected from tree genotype 7085 at timepoint T2,7085,T2,EP4,A11,"""Central Atlantic""",GC,GC1,4,3,C,-11.05,Average,46.86666667,Susceptible,Yes
+GC1-7085-T3-ITS,Pinus sylvestris needles collected from tree genotype 7085 at timepoint T3,7085,T3,EP6_and_EP9,F02,"""Central Atlantic""",GC,GC1,4,3,C,-11.05,Average,46.86666667,Susceptible,Yes
+GE1-7087-T1-ITS,Pinus sylvestris needles collected from tree genotype 7087 at timepoint T1,7087,T1,EP1,F04,"""Central Atlantic""",GE,GE1,2,3,C,-4.333333334,Susceptible,22.86666667,Average,No
+GE1-7087-T2-ITS,Pinus sylvestris needles collected from tree genotype 7087 at timepoint T2,7087,T2,EP4,F04,"""Central Atlantic""",GE,GE1,2,3,C,-4.333333334,Susceptible,22.86666667,Average,No
+GE1-7087-T3-ITS,Pinus sylvestris needles collected from tree genotype 7087 at timepoint T3,7087,T3,EP8,A03,"""Central Atlantic""",GE,GE1,2,3,C,-4.333333334,Susceptible,22.86666667,Average,No
+GC5-7089-T1-ITS,Pinus sylvestris needles collected from tree genotype 7089 at timepoint T1,7089,T1,EP3,B03,"""Central Atlantic""",GC,GC5,8,3,D,-12.1,Resistant,5.4,Resistant,No
+GC5-7089-T2-ITS,Pinus sylvestris needles collected from tree genotype 7089 at timepoint T2,7089,T2,EP6_and_EP9,H01,"""Central Atlantic""",GC,GC5,8,3,D,-12.1,Resistant,5.4,Resistant,No
+GC5-7089-T3-ITS,Pinus sylvestris needles collected from tree genotype 7089 at timepoint T3,7089,T3,EP7,H10,"""Central Atlantic""",GC,GC5,8,3,D,-12.1,Resistant,5.4,Resistant,No
+CG4-7097-T1-ITS,Pinus sylvestris needles collected from tree genotype 7097 at timepoint T1,7097,T1,EP2,F05,"""Hyper-oceanic""",CG,CG4,8,4,A,-7.366666666,Average,45.73333333,Susceptible,No
+CG4-7097-T2-ITS,Pinus sylvestris needles collected from tree genotype 7097 at timepoint T2,7097,T2,EP4,B05,"""Hyper-oceanic""",CG,CG4,8,4,A,-7.366666666,Average,45.73333333,Susceptible,No
+CG4-7097-T3-ITS,Pinus sylvestris needles collected from tree genotype 7097 at timepoint T3,7097,T3,EP7,A07,"""Hyper-oceanic""",CG,CG4,8,4,A,-7.366666666,Average,45.73333333,Susceptible,No
+AC9-7099-T1-ITS,Pinus sylvestris needles collected from tree genotype 7099 at timepoint T1,7099,T1,EP2,F12,Cairngorms,AC,AC9,6,4,A,-6.433333334,Susceptible,42.06666667,Average,No
+AC9-7099-T2-ITS,Pinus sylvestris needles collected from tree genotype 7099 at timepoint T2,7099,T2,EP4,D07,Cairngorms,AC,AC9,6,4,A,-6.433333334,Susceptible,42.06666667,Average,No
+AC9-7099-T3-ITS,Pinus sylvestris needles collected from tree genotype 7099 at timepoint T3,7099,T3,EP7,D12,Cairngorms,AC,AC9,6,4,A,-6.433333334,Susceptible,42.06666667,Average,No
+GC9-7100-T1-ITS,Pinus sylvestris needles collected from tree genotype 7100 at timepoint T1,7100,T1,EP2,C09,"""Central Atlantic""",GC,GC9,5,4,A,-9.516666666,Average,36.93333333,Average,No
+GC9-7100-T2-ITS,Pinus sylvestris needles collected from tree genotype 7100 at timepoint T2,7100,T2,EP4,D05,"""Central Atlantic""",GC,GC9,5,4,A,-9.516666666,Average,36.93333333,Average,No
+GC9-7100-T3-ITS,Pinus sylvestris needles collected from tree genotype 7100 at timepoint T3,7100,T3,EP7,H11,"""Central Atlantic""",GC,GC9,5,4,A,-9.516666666,Average,36.93333333,Average,No
+BW3-7101-T1-ITS,Pinus sylvestris needles collected from tree genotype 7101 at timepoint T1,7101,T1,EP3,G04,"""Central Atlantic""",BW,BW3,4,4,A,-13.8,Resistant,26.06666667,Average,No
+BW3-7101-T2-ITS,Pinus sylvestris needles collected from tree genotype 7101 at timepoint T2,7101,T2,EP6_and_EP9,C01,"""Central Atlantic""",BW,BW3,4,4,A,-13.8,Resistant,26.06666667,Average,No
+BW3-7101-T3-ITS,Pinus sylvestris needles collected from tree genotype 7101 at timepoint T3,7101,T3,EP7,E04,"""Central Atlantic""",BW,BW3,4,4,A,-13.8,Resistant,26.06666667,Average,No
+GT5-7107-T1-ITS,Pinus sylvestris needles collected from tree genotype 7107 at timepoint T1,7107,T1,EP3,H01,Cairngorms,GT,GT5,6,4,B,-3.933333334,Susceptible,31.06666667,Average,No
+GT5-7107-T2-ITS,Pinus sylvestris needles collected from tree genotype 7107 at timepoint T2,7107,T2,EP5,C12,Cairngorms,GT,GT5,6,4,B,-3.933333334,Susceptible,31.06666667,Average,No
+GT5-7107-T3-ITS,Pinus sylvestris needles collected from tree genotype 7107 at timepoint T3,7107,T3,EP8,G05,Cairngorms,GT,GT5,6,4,B,-3.933333334,Susceptible,31.06666667,Average,No
+GE1-7112-T1-ITS,Pinus sylvestris needles collected from tree genotype 7112 at timepoint T1,7112,T1,EP3,D03,"""Central Atlantic""",GE,GE1,1,4,B,-8,Average,32.26666666,Average,No
+GE1-7112-T2-ITS,Pinus sylvestris needles collected from tree genotype 7112 at timepoint T2,7112,T2,EP5,F07,"""Central Atlantic""",GE,GE1,1,4,B,-8,Average,32.26666666,Average,No
+GE1-7112-T3-ITS,Pinus sylvestris needles collected from tree genotype 7112 at timepoint T3,7112,T3,EP8,A08,"""Central Atlantic""",GE,GE1,1,4,B,-8,Average,32.26666666,Average,No
+RM3-7115-T1-ITS,Pinus sylvestris needles collected from tree genotype 7115 at timepoint T1,7115,T1,EP3,C03,Cairngorms,RM,RM3,6,4,C,-9.516666668,Average,52.93333333,Susceptible,Yes
+RM3-7115-T2-ITS,Pinus sylvestris needles collected from tree genotype 7115 at timepoint T2,7115,T2,EP4,B10,Cairngorms,RM,RM3,6,4,C,-9.516666668,Average,52.93333333,Susceptible,Yes
+RM3-7115-T3-ITS,Pinus sylvestris needles collected from tree genotype 7115 at timepoint T3,7115,T3,EP6_and_EP9,A02,Cairngorms,RM,RM3,6,4,C,-9.516666668,Average,52.93333333,Susceptible,Yes
+RM6-7120-T1-ITS,Pinus sylvestris needles collected from tree genotype 7120 at timepoint T1,7120,T1,EP1,C09,Cairngorms,RM,RM6,1,4,C,-11.36666667,Average,23.6,Average,No
+RM6-7120-T2-ITS,Pinus sylvestris needles collected from tree genotype 7120 at timepoint T2,7120,T2,EP4,H03,Cairngorms,RM,RM6,1,4,C,-11.36666667,Average,23.6,Average,No
+RM6-7120-T3-ITS,Pinus sylvestris needles collected from tree genotype 7120 at timepoint T3,7120,T3,EP8,A10,Cairngorms,RM,RM6,1,4,C,-11.36666667,Average,23.6,Average,No
+BB3-7126-T1-ITS,Pinus sylvestris needles collected from tree genotype 7126 at timepoint T1,7126,T1,EP1,B05,Cairngorms,BB,BB3,3,4,D,-12.4,Resistant,12.13333333,Resistant,No
+BB3-7126-T2-ITS,Pinus sylvestris needles collected from tree genotype 7126 at timepoint T2,7126,T2,EP5,A11,Cairngorms,BB,BB3,3,4,D,-12.4,Resistant,12.13333333,Resistant,No
+BB3-7126-T3-ITS,Pinus sylvestris needles collected from tree genotype 7126 at timepoint T3,7126,T3,EP7,E12,Cairngorms,BB,BB3,3,4,D,-12.4,Resistant,12.13333333,Resistant,No
+GC1-7128-T1-ITS,Pinus sylvestris needles collected from tree genotype 7128 at timepoint T1,7128,T1,EP1,E09,"""Central Atlantic""",GC,GC1,1,4,D,-8.866666666,Average,11.8,Resistant,Yes
+GC1-7128-T2-ITS,Pinus sylvestris needles collected from tree genotype 7128 at timepoint T2,7128,T2,EP5,B10,"""Central Atlantic""",GC,GC1,1,4,D,-8.866666666,Average,11.8,Resistant,Yes
+GC1-7128-T3-ITS,Pinus sylvestris needles collected from tree genotype 7128 at timepoint T3,7128,T3,EP7,A10,"""Central Atlantic""",GC,GC1,1,4,D,-8.866666666,Average,11.8,Resistant,Yes
+BE5-7132-T1-ITS,Pinus sylvestris needles collected from tree genotype 7132 at timepoint T1,7132,T1,EP3,H02,"""Hyper-oceanic""",BE,BE5,5,5,A,-9.033333332,Average,45.26666667,Susceptible,No
+BE5-7132-T2-ITS,Pinus sylvestris needles collected from tree genotype 7132 at timepoint T2,7132,T2,EP4,H01,"""Hyper-oceanic""",BE,BE5,5,5,A,-9.033333332,Average,45.26666667,Susceptible,No
+BE5-7132-T3-ITS,Pinus sylvestris needles collected from tree genotype 7132 at timepoint T3,7132,T3,EP7,C03,"""Hyper-oceanic""",BE,BE5,5,5,A,-9.033333332,Average,45.26666667,Susceptible,No
+CR4-7135-T1-ITS,Pinus sylvestris needles collected from tree genotype 7135 at timepoint T1,7135,T1,EP2,E08,"""Hyper-oceanic""",CR,CR4,2,5,A,-9.833333334,Average,25.6,Average,No
+CR4-7135-T2-ITS,Pinus sylvestris needles collected from tree genotype 7135 at timepoint T2,7135,T2,EP4,A01,"""Hyper-oceanic""",CR,CR4,2,5,A,-9.833333334,Average,25.6,Average,No
+CR4-7135-T3-ITS,Pinus sylvestris needles collected from tree genotype 7135 at timepoint T3,7135,T3,EP6_and_EP9,D05,"""Hyper-oceanic""",CR,CR4,2,5,A,-9.833333334,Average,25.6,Average,No
+GC2-7136-T1-ITS,Pinus sylvestris needles collected from tree genotype 7136 at timepoint T1,7136,T1,EP2,D03,"""Central Atlantic""",GC,GC2,1,5,A,-11.93333333,Average,24.93333333,Average,No
+GC2-7136-T2-ITS,Pinus sylvestris needles collected from tree genotype 7136 at timepoint T2,7136,T2,EP4,C08,"""Central Atlantic""",GC,GC2,1,5,A,-11.93333333,Average,24.93333333,Average,No
+GC2-7136-T3-ITS,Pinus sylvestris needles collected from tree genotype 7136 at timepoint T3,7136,T3,EP6_and_EP9,C05,"""Central Atlantic""",GC,GC2,1,5,A,-11.93333333,Average,24.93333333,Average,No
+BE2-7141-T1-ITS,Pinus sylvestris needles collected from tree genotype 7141 at timepoint T1,7141,T1,EP2,D11,"""Hyper-oceanic""",BE,BE2,4,5,B,-6.3,Susceptible,23.33333333,Average,No
+BE2-7141-T2-ITS,Pinus sylvestris needles collected from tree genotype 7141 at timepoint T2,7141,T2,EP6_and_EP9,B03,"""Hyper-oceanic""",BE,BE2,4,5,B,-6.3,Susceptible,23.33333333,Average,No
+BE2-7141-T3-ITS,Pinus sylvestris needles collected from tree genotype 7141 at timepoint T3,7141,T3,EP8,C12,"""Hyper-oceanic""",BE,BE2,4,5,B,-6.3,Susceptible,23.33333333,Average,No
+AC9-7142-T1-ITS,Pinus sylvestris needles collected from tree genotype 7142 at timepoint T1,7142,T1,EP2,C01,Cairngorms,AC,AC9,3,5,B,-8.233333332,Average,16.26666667,Average,No
+AC9-7142-T2-ITS,Pinus sylvestris needles collected from tree genotype 7142 at timepoint T2,7142,T2,EP5,B03,Cairngorms,AC,AC9,3,5,B,-8.233333332,Average,16.26666667,Average,No
+AC9-7142-T3-ITS,Pinus sylvestris needles collected from tree genotype 7142 at timepoint T3,7142,T3,EP8,H07,Cairngorms,AC,AC9,3,5,B,-8.233333332,Average,16.26666667,Average,No
+CR4-7143-T1-ITS,Pinus sylvestris needles collected from tree genotype 7143 at timepoint T1,7143,T1,EP3,G01,"""Hyper-oceanic""",CR,CR4,2,5,B,-12.8,Resistant,37.73333334,Average,Yes
+CR4-7143-T2-ITS,Pinus sylvestris needles collected from tree genotype 7143 at timepoint T2,7143,T2,EP5,G09,"""Hyper-oceanic""",CR,CR4,2,5,B,-12.8,Resistant,37.73333334,Average,Yes
+CR4-7143-T3-ITS,Pinus sylvestris needles collected from tree genotype 7143 at timepoint T3,7143,T3,EP8,E04,"""Hyper-oceanic""",CR,CR4,2,5,B,-12.8,Resistant,37.73333334,Average,Yes
+RM1-7145-T1-ITS,Pinus sylvestris needles collected from tree genotype 7145 at timepoint T1,7145,T1,EP1,D09,Cairngorms,RM,RM1,8,5,C,-12.43333333,Resistant,35.46666667,Average,No
+RM1-7145-T2-ITS,Pinus sylvestris needles collected from tree genotype 7145 at timepoint T2,7145,T2,EP4,D02,Cairngorms,RM,RM1,8,5,C,-12.43333333,Resistant,35.46666667,Average,No
+RM1-7145-T3-ITS,Pinus sylvestris needles collected from tree genotype 7145 at timepoint T3,7145,T3,EP8,H01,Cairngorms,RM,RM1,8,5,C,-12.43333333,Resistant,35.46666667,Average,No
+BE5-7146-T1-ITS,Pinus sylvestris needles collected from tree genotype 7146 at timepoint T1,7146,T1,EP1,B11,"""Hyper-oceanic""",BE,BE5,7,5,C,-8.9,Average,26.26666667,Average,No
+BE5-7146-T2-ITS,Pinus sylvestris needles collected from tree genotype 7146 at timepoint T2,7146,T2,EP4,F09,"""Hyper-oceanic""",BE,BE5,7,5,C,-8.9,Average,26.26666667,Average,No
+BE5-7146-T3-ITS,Pinus sylvestris needles collected from tree genotype 7146 at timepoint T3,7146,T3,EP8,E05,"""Hyper-oceanic""",BE,BE5,7,5,C,-8.9,Average,26.26666667,Average,No
+CG2-7148-T1-ITS,Pinus sylvestris needles collected from tree genotype 7148 at timepoint T1,7148,T1,EP1,B03,"""Hyper-oceanic""",CG,CG2,5,5,C,-14,Resistant,15.86666667,Average,Yes
+CG2-7148-T2-ITS,Pinus sylvestris needles collected from tree genotype 7148 at timepoint T2,7148,T2,EP4,C04,"""Hyper-oceanic""",CG,CG2,5,5,C,-14,Resistant,15.86666667,Average,Yes
+CG2-7148-T3-ITS,Pinus sylvestris needles collected from tree genotype 7148 at timepoint T3,7148,T3,EP8,E07,"""Hyper-oceanic""",CG,CG2,5,5,C,-14,Resistant,15.86666667,Average,Yes
+CR7-7154-T1-ITS,Pinus sylvestris needles collected from tree genotype 7154 at timepoint T1,7154,T1,EP3,G03,"""Hyper-oceanic""",CR,CR7,7,5,D,-12.4,Resistant,18.13333333,Average,Yes
+CR7-7154-T2-ITS,Pinus sylvestris needles collected from tree genotype 7154 at timepoint T2,7154,T2,EP5,B06,"""Hyper-oceanic""",CR,CR7,7,5,D,-12.4,Resistant,18.13333333,Average,Yes
+CR7-7154-T3-ITS,Pinus sylvestris needles collected from tree genotype 7154 at timepoint T3,7154,T3,EP6_and_EP9,B05,"""Hyper-oceanic""",CR,CR7,7,5,D,-12.4,Resistant,18.13333333,Average,Yes
+BE3-7156-T1-ITS,Pinus sylvestris needles collected from tree genotype 7156 at timepoint T1,7156,T1,EP3,D04,"""Hyper-oceanic""",BE,BE3,5,5,D,-4.733333334,Susceptible,48.53333333,Susceptible,Yes
+BE3-7156-T2-ITS,Pinus sylvestris needles collected from tree genotype 7156 at timepoint T2,7156,T2,EP5,D06,"""Hyper-oceanic""",BE,BE3,5,5,D,-4.733333334,Susceptible,48.53333333,Susceptible,Yes
+BE3-7156-T3-ITS,Pinus sylvestris needles collected from tree genotype 7156 at timepoint T3,7156,T3,EP7,C06,"""Hyper-oceanic""",BE,BE3,5,5,D,-4.733333334,Susceptible,48.53333333,Susceptible,Yes
+CG2-7160-T1-ITS,Pinus sylvestris needles collected from tree genotype 7160 at timepoint T1,7160,T1,EP1,E12,"""Hyper-oceanic""",CG,CG2,1,5,D,-11.9,Average,17.6,Average,No
+CG2-7160-T2-ITS,Pinus sylvestris needles collected from tree genotype 7160 at timepoint T2,7160,T2,EP5,F04,"""Hyper-oceanic""",CG,CG2,1,5,D,-11.9,Average,17.6,Average,No
+CG2-7160-T3-ITS,Pinus sylvestris needles collected from tree genotype 7160 at timepoint T3,7160,T3,EP6_and_EP9,A06,"""Hyper-oceanic""",CG,CG2,1,5,D,-11.9,Average,17.6,Average,No
+BB5-7171-T1-ITS,Pinus sylvestris needles collected from tree genotype 7171 at timepoint T1,7171,T1,EP2,A06,Cairngorms,BB,BB5,6,6,B,-6.033333334,Susceptible,28,Average,No
+BB5-7171-T2-ITS,Pinus sylvestris needles collected from tree genotype 7171 at timepoint T2,7171,T2,EP5,C04,Cairngorms,BB,BB5,6,6,B,-6.033333334,Susceptible,28,Average,No
+BB5-7171-T3-ITS,Pinus sylvestris needles collected from tree genotype 7171 at timepoint T3,7171,T3,EP8,B10,Cairngorms,BB,BB5,6,6,B,-6.033333334,Susceptible,28,Average,No
+BW6-7173-T1-ITS,Pinus sylvestris needles collected from tree genotype 7173 at timepoint T1,7173,T1,EP2,H03,"""Central Atlantic""",BW,BW6,4,6,B,-12.46666667,Resistant,46.59999999,Susceptible,No
+BW6-7173-T2-ITS,Pinus sylvestris needles collected from tree genotype 7173 at timepoint T2,7173,T2,EP5,A04,"""Central Atlantic""",BW,BW6,4,6,B,-12.46666667,Resistant,46.59999999,Susceptible,No
+BW6-7173-T3-ITS,Pinus sylvestris needles collected from tree genotype 7173 at timepoint T3,7173,T3,EP8,H09,"""Central Atlantic""",BW,BW6,4,6,B,-12.46666667,Resistant,46.59999999,Susceptible,No
+AC8-7174-T1-ITS,Pinus sylvestris needles collected from tree genotype 7174 at timepoint T1,7174,T1,EP2,A01,Cairngorms,AC,AC8,3,6,B,-8.8,Average,26.93333333,Average,No
+AC8-7174-T2-ITS,Pinus sylvestris needles collected from tree genotype 7174 at timepoint T2,7174,T2,EP5,D09,Cairngorms,AC,AC8,3,6,B,-8.8,Average,26.93333333,Average,No
+AC8-7174-T3-ITS,Pinus sylvestris needles collected from tree genotype 7174 at timepoint T3,7174,T3,EP8,F11,Cairngorms,AC,AC8,3,6,B,-8.8,Average,26.93333333,Average,No
+GC5-7178-T1-ITS,Pinus sylvestris needles collected from tree genotype 7178 at timepoint T1,7178,T1,EP3,E03,"""Central Atlantic""",GC,GC5,7,6,C,-8.433333332,Average,18.93333333,Average,No
+GC5-7178-T2-ITS,Pinus sylvestris needles collected from tree genotype 7178 at timepoint T2,7178,T2,EP4,F01,"""Central Atlantic""",GC,GC5,7,6,C,-8.433333332,Average,18.93333333,Average,No
+GC5-7178-T3-ITS,Pinus sylvestris needles collected from tree genotype 7178 at timepoint T3,7178,T3,EP8,B11,"""Central Atlantic""",GC,GC5,7,6,C,-8.433333332,Average,18.93333333,Average,No
+BB7-7181-T1-ITS,Pinus sylvestris needles collected from tree genotype 7181 at timepoint T1,7181,T1,EP1,A04,Cairngorms,BB,BB7,4,6,C,-9.45,Average,20.4,Average,No
+BB7-7181-T2-ITS,Pinus sylvestris needles collected from tree genotype 7181 at timepoint T2,7181,T2,EP6_and_EP9,F01,Cairngorms,BB,BB7,4,6,C,-9.45,Average,20.4,Average,No
+BB7-7181-T3-ITS,Pinus sylvestris needles collected from tree genotype 7181 at timepoint T3,7181,T3,EP8,C06,Cairngorms,BB,BB7,4,6,C,-9.45,Average,20.4,Average,No
+CR7-7183-T1-ITS,Pinus sylvestris needles collected from tree genotype 7183 at timepoint T1,7183,T1,EP1,C12,"""Hyper-oceanic""",CR,CR7,2,6,C,-13.1,Resistant,29.4,Average,Yes
+CR7-7183-T2-ITS,Pinus sylvestris needles collected from tree genotype 7183 at timepoint T2,7183,T2,EP4,B09,"""Hyper-oceanic""",CR,CR7,2,6,C,-13.1,Resistant,29.4,Average,Yes
+CR7-7183-T3-ITS,Pinus sylvestris needles collected from tree genotype 7183 at timepoint T3,7183,T3,EP8,D01,"""Hyper-oceanic""",CR,CR7,2,6,C,-13.1,Resistant,29.4,Average,Yes
+AC8-7184-T1-ITS,Pinus sylvestris needles collected from tree genotype 7184 at timepoint T1,7184,T1,EP1,F11,Cairngorms,AC,AC8,1,6,C,-13.8,Resistant,31.6,Average,No
+AC8-7184-T2-ITS,Pinus sylvestris needles collected from tree genotype 7184 at timepoint T2,7184,T2,EP4,H05,Cairngorms,AC,AC8,1,6,C,-13.8,Resistant,31.6,Average,No
+AC8-7184-T3-ITS,Pinus sylvestris needles collected from tree genotype 7184 at timepoint T3,7184,T3,EP8,D06,Cairngorms,AC,AC8,1,6,C,-13.8,Resistant,31.6,Average,No
+GE6-7186-T1-ITS,Pinus sylvestris needles collected from tree genotype 7186 at timepoint T1,7186,T1,EP1,H09,"""Central Atlantic""",GE,GE6,7,6,D,-7.866666668,Average,14.66666667,Resistant,No
+GE6-7186-T2-ITS,Pinus sylvestris needles collected from tree genotype 7186 at timepoint T2,7186,T2,EP6_and_EP9,D02,"""Central Atlantic""",GE,GE6,7,6,D,-7.866666668,Average,14.66666667,Resistant,No
+GE6-7186-T3-ITS,Pinus sylvestris needles collected from tree genotype 7186 at timepoint T3,7186,T3,EP7,D08,"""Central Atlantic""",GE,GE6,7,6,D,-7.866666668,Average,14.66666667,Resistant,No
+CG7-7197-T1-ITS,Pinus sylvestris needles collected from tree genotype 7197 at timepoint T1,7197,T1,EP2,B04,"""Hyper-oceanic""",CG,CG7,4,7,A,-9.483333334,Average,12.93333333,Resistant,Yes
+CG7-7197-T2-ITS,Pinus sylvestris needles collected from tree genotype 7197 at timepoint T2,7197,T2,EP4,H10,"""Hyper-oceanic""",CG,CG7,4,7,A,-9.483333334,Average,12.93333333,Resistant,Yes
+CG7-7197-T3-ITS,Pinus sylvestris needles collected from tree genotype 7197 at timepoint T3,7197,T3,EP7,D11,"""Hyper-oceanic""",CG,CG7,4,7,A,-9.483333334,Average,12.93333333,Resistant,Yes
+GT2-7200-T1-ITS,Pinus sylvestris needles collected from tree genotype 7200 at timepoint T1,7200,T1,EP2,C03,Cairngorms,GT,GT2,1,7,A,-12.6,Resistant,53.06666667,Susceptible,No
+GT2-7200-T2-ITS,Pinus sylvestris needles collected from tree genotype 7200 at timepoint T2,7200,T2,EP4,F02,Cairngorms,GT,GT2,1,7,A,-12.6,Resistant,53.06666667,Susceptible,No
+GT2-7200-T3-ITS,Pinus sylvestris needles collected from tree genotype 7200 at timepoint T3,7200,T3,EP7,F07,Cairngorms,GT,GT2,1,7,A,-12.6,Resistant,53.06666667,Susceptible,No
+RM10-7202-T1-ITS,Pinus sylvestris needles collected from tree genotype 7202 at timepoint T1,7202,T1,EP2,A12,Cairngorms,RM,RM10,7,7,B,-10.4,Average,26.6,Average,No
+RM10-7202-T2-ITS,Pinus sylvestris needles collected from tree genotype 7202 at timepoint T2,7202,T2,EP6_and_EP9,D01,Cairngorms,RM,RM10,7,7,B,-10.4,Average,26.6,Average,No
+RM10-7202-T3-ITS,Pinus sylvestris needles collected from tree genotype 7202 at timepoint T3,7202,T3,EP8,F03,Cairngorms,RM,RM10,7,7,B,-10.4,Average,26.6,Average,No
+RM6-7203-T1-ITS,Pinus sylvestris needles collected from tree genotype 7203 at timepoint T1,7203,T1,EP2,H02,Cairngorms,RM,RM6,6,7,B,-7.233333334,Average,15.33333333,Average,No
+RM6-7203-T2-ITS,Pinus sylvestris needles collected from tree genotype 7203 at timepoint T2,7203,T2,EP5,A10,Cairngorms,RM,RM6,6,7,B,-7.233333334,Average,15.33333333,Average,No
+RM6-7203-T3-ITS,Pinus sylvestris needles collected from tree genotype 7203 at timepoint T3,7203,T3,EP8,A06,Cairngorms,RM,RM6,6,7,B,-7.233333334,Average,15.33333333,Average,No
+GE6-7205-T1-ITS,Pinus sylvestris needles collected from tree genotype 7205 at timepoint T1,7205,T1,EP2,E05,"""Central Atlantic""",GE,GE6,4,7,B,-9.066666666,Average,11.6,Resistant,No
+GE6-7205-T2-ITS,Pinus sylvestris needles collected from tree genotype 7205 at timepoint T2,7205,T2,EP5,G10,"""Central Atlantic""",GE,GE6,4,7,B,-9.066666666,Average,11.6,Resistant,No
+GE6-7205-T3-ITS,Pinus sylvestris needles collected from tree genotype 7205 at timepoint T3,7205,T3,EP8,C07,"""Central Atlantic""",GE,GE6,4,7,B,-9.066666666,Average,11.6,Resistant,No
+CG2-7208-T1-ITS,Pinus sylvestris needles collected from tree genotype 7208 at timepoint T1,7208,T1,EP2,E09,"""Hyper-oceanic""",CG,CG2,1,7,B,-13.23333333,Resistant,16,Average,Yes
+CG2-7208-T2-ITS,Pinus sylvestris needles collected from tree genotype 7208 at timepoint T2,7208,T2,EP5,D07,"""Hyper-oceanic""",CG,CG2,1,7,B,-13.23333333,Resistant,16,Average,Yes
+CG2-7208-T3-ITS,Pinus sylvestris needles collected from tree genotype 7208 at timepoint T3,7208,T3,EP8,D03,"""Hyper-oceanic""",CG,CG2,1,7,B,-13.23333333,Resistant,16,Average,Yes
+GT2-7210-T1-ITS,Pinus sylvestris needles collected from tree genotype 7210 at timepoint T1,7210,T1,EP3,D03,Cairngorms,GT,GT2,7,7,C,-10.26666667,Average,28.26666667,Average,No
+GT2-7210-T2-ITS,Pinus sylvestris needles collected from tree genotype 7210 at timepoint T2,7210,T2,EP4,E01,Cairngorms,GT,GT2,7,7,C,-10.26666667,Average,28.26666667,Average,No
+GT2-7210-T3-ITS,Pinus sylvestris needles collected from tree genotype 7210 at timepoint T3,7210,T3,EP8,H05,Cairngorms,GT,GT2,7,7,C,-10.26666667,Average,28.26666667,Average,No
+CR4-7211-T1-ITS,Pinus sylvestris needles collected from tree genotype 7211 at timepoint T1,7211,T1,EP1,A06,"""Hyper-oceanic""",CR,CR4,6,7,C,-15.93333333,Resistant,5.4,Resistant,Yes
+CR4-7211-T2-ITS,Pinus sylvestris needles collected from tree genotype 7211 at timepoint T2,7211,T2,EP4,A10,"""Hyper-oceanic""",CR,CR4,6,7,C,-15.93333333,Resistant,5.4,Resistant,Yes
+CR4-7211-T3-ITS,Pinus sylvestris needles collected from tree genotype 7211 at timepoint T3,7211,T3,EP8,D09,"""Hyper-oceanic""",CR,CR4,6,7,C,-15.93333333,Resistant,5.4,Resistant,Yes
+GE6-7213-T1-ITS,Pinus sylvestris needles collected from tree genotype 7213 at timepoint T1,7213,T1,EP3,A02,"""Central Atlantic""",GE,GE6,4,7,C,-9.5,Average,16.53333333,Average,No
+GE6-7213-T2-ITS,Pinus sylvestris needles collected from tree genotype 7213 at timepoint T2,7213,T2,EP4,F06,"""Central Atlantic""",GE,GE6,4,7,C,-9.5,Average,16.53333333,Average,No
+GE6-7213-T3-ITS,Pinus sylvestris needles collected from tree genotype 7213 at timepoint T3,7213,T3,EP8,D11,"""Central Atlantic""",GE,GE6,4,7,C,-9.5,Average,16.53333333,Average,No
+CG4-7218-T1-ITS,Pinus sylvestris needles collected from tree genotype 7218 at timepoint T1,7218,T1,EP3,A02,"""Hyper-oceanic""",CG,CG4,7,7,D,-12.8,Resistant,17.6,Average,No
+CG4-7218-T2-ITS,Pinus sylvestris needles collected from tree genotype 7218 at timepoint T2,7218,T2,EP6_and_EP9,C05,"""Hyper-oceanic""",CG,CG4,7,7,D,-12.8,Resistant,17.6,Average,No
+CG4-7218-T3-ITS,Pinus sylvestris needles collected from tree genotype 7218 at timepoint T3,7218,T3,EP7,H07,"""Hyper-oceanic""",CG,CG4,7,7,D,-12.8,Resistant,17.6,Average,No
+BB7-7224-T1-ITS,Pinus sylvestris needles collected from tree genotype 7224 at timepoint T1,7224,T1,EP3,A07,Cairngorms,BB,BB7,1,7,D,-5.233333334,Susceptible,29.6,Average,No
+BB7-7224-T2-ITS,Pinus sylvestris needles collected from tree genotype 7224 at timepoint T2,7224,T2,EP6_and_EP9,C04,Cairngorms,BB,BB7,1,7,D,-5.233333334,Susceptible,29.6,Average,No
+BB7-7224-T3-ITS,Pinus sylvestris needles collected from tree genotype 7224 at timepoint T3,7224,T3,EP7,C05,Cairngorms,BB,BB7,1,7,D,-5.233333334,Susceptible,29.6,Average,No
+BB7-7227-T1-ITS,Pinus sylvestris needles collected from tree genotype 7227 at timepoint T1,7227,T1,EP2,D10,Cairngorms,BB,BB7,6,8,A,-3.183333334,Susceptible,71.46666666,Susceptible,No
+BB7-7227-T2-ITS,Pinus sylvestris needles collected from tree genotype 7227 at timepoint T2,7227,T2,EP4,B12,Cairngorms,BB,BB7,6,8,A,-3.183333334,Susceptible,71.46666666,Susceptible,No
+BB7-7227-T3-ITS,Pinus sylvestris needles collected from tree genotype 7227 at timepoint T3,7227,T3,EP6_and_EP9,B03,Cairngorms,BB,BB7,6,8,A,-3.183333334,Susceptible,71.46666666,Susceptible,No
+AC1-7230-T1-ITS,Pinus sylvestris needles collected from tree genotype 7230 at timepoint T1,7230,T1,EP2,G04,Cairngorms,AC,AC1,3,8,A,-5.466666668,Susceptible,34.4,Average,No
+AC1-7230-T2-ITS,Pinus sylvestris needles collected from tree genotype 7230 at timepoint T2,7230,T2,EP4,C06,Cairngorms,AC,AC1,3,8,A,-5.466666668,Susceptible,34.4,Average,No
+AC1-7230-T3-ITS,Pinus sylvestris needles collected from tree genotype 7230 at timepoint T3,7230,T3,EP7,E07,Cairngorms,AC,AC1,3,8,A,-5.466666668,Susceptible,34.4,Average,No
+BB1-7232-T1-ITS,Pinus sylvestris needles collected from tree genotype 7232 at timepoint T1,7232,T1,EP2,H01,Cairngorms,BB,BB1,1,8,A,-5.833333334,Susceptible,86.19999999,Susceptible,No
+BB1-7232-T2-ITS,Pinus sylvestris needles collected from tree genotype 7232 at timepoint T2,7232,T2,EP4,G05,Cairngorms,BB,BB1,1,8,A,-5.833333334,Susceptible,86.19999999,Susceptible,No
+BB1-7232-T3-ITS,Pinus sylvestris needles collected from tree genotype 7232 at timepoint T3,7232,T3,EP7,C08,Cairngorms,BB,BB1,1,8,A,-5.833333334,Susceptible,86.19999999,Susceptible,No
+GT1-7236-T1-ITS,Pinus sylvestris needles collected from tree genotype 7236 at timepoint T1,7236,T1,EP2,G12,Cairngorms,GT,GT1,5,8,B,-2.2,Susceptible,83.53333334,Susceptible,No
+GT1-7236-T2-ITS,Pinus sylvestris needles collected from tree genotype 7236 at timepoint T2,7236,T2,EP5,E10,Cairngorms,GT,GT1,5,8,B,-2.2,Susceptible,83.53333334,Susceptible,No
+GT1-7236-T3-ITS,Pinus sylvestris needles collected from tree genotype 7236 at timepoint T3,7236,T3,EP8,D02,Cairngorms,GT,GT1,5,8,B,-2.2,Susceptible,83.53333334,Susceptible,No
+BE3-7237-T1-ITS,Pinus sylvestris needles collected from tree genotype 7237 at timepoint T1,7237,T1,EP2,H06,"""Hyper-oceanic""",BE,BE3,4,8,B,-4.6,Susceptible,38.4,Average,Yes
+BE3-7237-T2-ITS,Pinus sylvestris needles collected from tree genotype 7237 at timepoint T2,7237,T2,EP5,B01,"""Hyper-oceanic""",BE,BE3,4,8,B,-4.6,Susceptible,38.4,Average,Yes
+BE3-7237-T3-ITS,Pinus sylvestris needles collected from tree genotype 7237 at timepoint T3,7237,T3,EP8,H12,"""Hyper-oceanic""",BE,BE3,4,8,B,-4.6,Susceptible,38.4,Average,Yes
+BB1-7238-T1-ITS,Pinus sylvestris needles collected from tree genotype 7238 at timepoint T1,7238,T1,EP2,C05,Cairngorms,BB,BB1,3,8,B,-10.4,Average,57.79999999,Susceptible,No
+BB1-7238-T2-ITS,Pinus sylvestris needles collected from tree genotype 7238 at timepoint T2,7238,T2,EP5,A03,Cairngorms,BB,BB1,3,8,B,-10.4,Average,57.79999999,Susceptible,No
+BB1-7238-T3-ITS,Pinus sylvestris needles collected from tree genotype 7238 at timepoint T3,7238,T3,EP6_and_EP9,F04,Cairngorms,BB,BB1,3,8,B,-10.4,Average,57.79999999,Susceptible,No
+GE8-7242-T2-ITS,Pinus sylvestris needles collected from tree genotype 7242 at timepoint T2,7242,T2,EP4,F11,"""Central Atlantic""",GE,GE8,7,8,C,-15,Resistant,24.93333333,Average,No
+GE8-7242-T3-ITS,Pinus sylvestris needles collected from tree genotype 7242 at timepoint T3,7242,T3,EP8,F04,"""Central Atlantic""",GE,GE8,7,8,C,-15,Resistant,24.93333333,Average,No
+BE3-7245-T1-ITS,Pinus sylvestris needles collected from tree genotype 7245 at timepoint T1,7245,T1,EP3,E07,"""Hyper-oceanic""",BE,BE3,4,8,C,-9.933333334,Average,14.26666667,Resistant,No
+BE3-7245-T2-ITS,Pinus sylvestris needles collected from tree genotype 7245 at timepoint T2,7245,T2,EP4,B07,"""Hyper-oceanic""",BE,BE3,4,8,C,-9.933333334,Average,14.26666667,Resistant,No
+BE3-7245-T3-ITS,Pinus sylvestris needles collected from tree genotype 7245 at timepoint T3,7245,T3,EP8,G12,"""Hyper-oceanic""",BE,BE3,4,8,C,-9.933333334,Average,14.26666667,Resistant,No
+GT5-7253-T1-ITS,Pinus sylvestris needles collected from tree genotype 7253 at timepoint T1,7253,T1,EP1,G03,Cairngorms,GT,GT5,4,8,D,-6.95,Susceptible,32.66666667,Average,No
+GT5-7253-T2-ITS,Pinus sylvestris needles collected from tree genotype 7253 at timepoint T2,7253,T2,EP5,C02,Cairngorms,GT,GT5,4,8,D,-6.95,Susceptible,32.66666667,Average,No
+GT5-7253-T3-ITS,Pinus sylvestris needles collected from tree genotype 7253 at timepoint T3,7253,T3,EP7,G04,Cairngorms,GT,GT5,4,8,D,-6.95,Susceptible,32.66666667,Average,No
+GT8-7254-T1-ITS,Pinus sylvestris needles collected from tree genotype 7254 at timepoint T1,7254,T1,EP1,H03,Cairngorms,GT,GT8,3,8,D,-7.4,Average,39.26666667,Average,No
+GT8-7254-T2-ITS,Pinus sylvestris needles collected from tree genotype 7254 at timepoint T2,7254,T2,EP5,F11,Cairngorms,GT,GT8,3,8,D,-7.4,Average,39.26666667,Average,No
+GT8-7254-T3-ITS,Pinus sylvestris needles collected from tree genotype 7254 at timepoint T3,7254,T3,EP7,D06,Cairngorms,GT,GT8,3,8,D,-7.4,Average,39.26666667,Average,No
+BW2-7261-T1-ITS,Pinus sylvestris needles collected from tree genotype 7261 at timepoint T1,7261,T1,EP2,A03,"""Central Atlantic""",BW,BW2,4,9,A,-9.333333332,Average,54.93333333,Susceptible,No
+BW2-7261-T2-ITS,Pinus sylvestris needles collected from tree genotype 7261 at timepoint T2,7261,T2,EP4,A12,"""Central Atlantic""",BW,BW2,4,9,A,-9.333333332,Average,54.93333333,Susceptible,No
+BW2-7261-T3-ITS,Pinus sylvestris needles collected from tree genotype 7261 at timepoint T3,7261,T3,EP6_and_EP9,F05,"""Central Atlantic""",BW,BW2,4,9,A,-9.333333332,Average,54.93333333,Susceptible,No
+BE4-7267-T1-ITS,Pinus sylvestris needles collected from tree genotype 7267 at timepoint T1,7267,T1,EP2,C06,"""Hyper-oceanic""",BE,BE4,6,9,B,-10.86666667,Average,26.6,Average,No
+BE4-7267-T2-ITS,Pinus sylvestris needles collected from tree genotype 7267 at timepoint T2,7267,T2,EP5,C06,"""Hyper-oceanic""",BE,BE4,6,9,B,-10.86666667,Average,26.6,Average,No
+BE4-7267-T3-ITS,Pinus sylvestris needles collected from tree genotype 7267 at timepoint T3,7267,T3,EP8,B03,"""Hyper-oceanic""",BE,BE4,6,9,B,-10.86666667,Average,26.6,Average,No
+BB7-7268-T1-ITS,Pinus sylvestris needles collected from tree genotype 7268 at timepoint T1,7268,T1,EP2,F11,Cairngorms,BB,BB7,5,9,B,-6.133333332,Susceptible,15.93333333,Average,No
+BB7-7268-T2-ITS,Pinus sylvestris needles collected from tree genotype 7268 at timepoint T2,7268,T2,EP5,D05,Cairngorms,BB,BB7,5,9,B,-6.133333332,Susceptible,15.93333333,Average,No
+BB7-7268-T3-ITS,Pinus sylvestris needles collected from tree genotype 7268 at timepoint T3,7268,T3,EP8,C03,Cairngorms,BB,BB7,5,9,B,-6.133333332,Susceptible,15.93333333,Average,No
+GE9-7272-T1-ITS,Pinus sylvestris needles collected from tree genotype 7272 at timepoint T1,7272,T1,EP2,A11,"""Central Atlantic""",GE,GE9,1,9,B,-10.06666667,Average,13.33333333,Resistant,No
+GE9-7272-T2-ITS,Pinus sylvestris needles collected from tree genotype 7272 at timepoint T2,7272,T2,EP5,G02,"""Central Atlantic""",GE,GE9,1,9,B,-10.06666667,Average,13.33333333,Resistant,No
+GE9-7272-T3-ITS,Pinus sylvestris needles collected from tree genotype 7272 at timepoint T3,7272,T3,EP6_and_EP9,H02,"""Central Atlantic""",GE,GE9,1,9,B,-10.06666667,Average,13.33333333,Resistant,No
+GC9-7275-T1-ITS,Pinus sylvestris needles collected from tree genotype 7275 at timepoint T1,7275,T1,EP1,E04,"""Central Atlantic""",GC,GC9,6,9,C,-11.86666667,Average,29.73333334,Average,No
+GC9-7275-T2-ITS,Pinus sylvestris needles collected from tree genotype 7275 at timepoint T2,7275,T2,EP4,A03,"""Central Atlantic""",GC,GC9,6,9,C,-11.86666667,Average,29.73333334,Average,No
+GC9-7275-T3-ITS,Pinus sylvestris needles collected from tree genotype 7275 at timepoint T3,7275,T3,EP8,F06,"""Central Atlantic""",GC,GC9,6,9,C,-11.86666667,Average,29.73333334,Average,No
+GC2-7276-T1-ITS,Pinus sylvestris needles collected from tree genotype 7276 at timepoint T1,7276,T1,EP1,H05,"""Central Atlantic""",GC,GC2,5,9,C,-6.366666668,Susceptible,44.93333333,Susceptible,Yes
+GC2-7276-T2-ITS,Pinus sylvestris needles collected from tree genotype 7276 at timepoint T2,7276,T2,EP4,H09,"""Central Atlantic""",GC,GC2,5,9,C,-6.366666668,Susceptible,44.93333333,Susceptible,Yes
+GC2-7276-T3-ITS,Pinus sylvestris needles collected from tree genotype 7276 at timepoint T3,7276,T3,EP8,H06,"""Central Atlantic""",GC,GC2,5,9,C,-6.366666668,Susceptible,44.93333333,Susceptible,Yes
+BW6-7284-T1-ITS,Pinus sylvestris needles collected from tree genotype 7284 at timepoint T1,7284,T1,EP1,D04,"""Central Atlantic""",BW,BW6,5,9,D,-9.65,Average,24.93333333,Average,No
+BW6-7284-T2-ITS,Pinus sylvestris needles collected from tree genotype 7284 at timepoint T2,7284,T2,EP5,C05,"""Central Atlantic""",BW,BW6,5,9,D,-9.65,Average,24.93333333,Average,No
+BW6-7284-T3-ITS,Pinus sylvestris needles collected from tree genotype 7284 at timepoint T3,7284,T3,EP7,A11,"""Central Atlantic""",BW,BW6,5,9,D,-9.65,Average,24.93333333,Average,No
+AC2-7291-T1-ITS,Pinus sylvestris needles collected from tree genotype 7291 at timepoint T1,7291,T1,EP2,B03,Cairngorms,AC,AC2,6,10,A,-6.033333334,Susceptible,13,Resistant,No
+AC2-7291-T2-ITS,Pinus sylvestris needles collected from tree genotype 7291 at timepoint T2,7291,T2,EP4,B03,Cairngorms,AC,AC2,6,10,A,-6.033333334,Susceptible,13,Resistant,No
+AC2-7291-T3-ITS,Pinus sylvestris needles collected from tree genotype 7291 at timepoint T3,7291,T3,EP7,A05,Cairngorms,AC,AC2,6,10,A,-6.033333334,Susceptible,13,Resistant,No
+GC1-7294-T1-ITS,Pinus sylvestris needles collected from tree genotype 7294 at timepoint T1,7294,T1,EP2,A09,"""Central Atlantic""",GC,GC1,3,10,A,-8.3,Average,64.40000001,Susceptible,Yes
+GC1-7294-T2-ITS,Pinus sylvestris needles collected from tree genotype 7294 at timepoint T2,7294,T2,EP6_and_EP9,H04,"""Central Atlantic""",GC,GC1,3,10,A,-8.3,Average,64.40000001,Susceptible,Yes
+GC1-7294-T3-ITS,Pinus sylvestris needles collected from tree genotype 7294 at timepoint T3,7294,T3,EP7,B08,"""Central Atlantic""",GC,GC1,3,10,A,-8.3,Average,64.40000001,Susceptible,Yes
+GT2-7297-T1-ITS,Pinus sylvestris needles collected from tree genotype 7297 at timepoint T1,7297,T1,EP2,C12,Cairngorms,GT,GT2,8,10,B,-10.06666667,Average,58.59999999,Susceptible,No
+GT2-7297-T2-ITS,Pinus sylvestris needles collected from tree genotype 7297 at timepoint T2,7297,T2,EP6_and_EP9,H08,Cairngorms,GT,GT2,8,10,B,-10.06666667,Average,58.59999999,Susceptible,No
+GT2-7297-T3-ITS,Pinus sylvestris needles collected from tree genotype 7297 at timepoint T3,7297,T3,EP8,D08,Cairngorms,GT,GT2,8,10,B,-10.06666667,Average,58.59999999,Susceptible,No
+CR9-7298-T1-ITS,Pinus sylvestris needles collected from tree genotype 7298 at timepoint T1,7298,T1,EP2,E03,"""Hyper-oceanic""",CR,CR9,7,10,B,-16.6,Resistant,13,Resistant,No
+CR9-7298-T2-ITS,Pinus sylvestris needles collected from tree genotype 7298 at timepoint T2,7298,T2,EP5,F08,"""Hyper-oceanic""",CR,CR9,7,10,B,-16.6,Resistant,13,Resistant,No
+CR9-7298-T3-ITS,Pinus sylvestris needles collected from tree genotype 7298 at timepoint T3,7298,T3,EP8,C11,"""Hyper-oceanic""",CR,CR9,7,10,B,-16.6,Resistant,13,Resistant,No
+GT5-7309-T1-ITS,Pinus sylvestris needles collected from tree genotype 7309 at timepoint T1,7309,T1,EP1,D03,Cairngorms,GT,GT5,4,10,C,-7.416666666,Average,53.6,Susceptible,No
+GT5-7309-T2-ITS,Pinus sylvestris needles collected from tree genotype 7309 at timepoint T2,7309,T2,EP4,C10,Cairngorms,GT,GT5,4,10,C,-7.416666666,Average,53.6,Susceptible,No
+GT5-7309-T3-ITS,Pinus sylvestris needles collected from tree genotype 7309 at timepoint T3,7309,T3,EP8,E06,Cairngorms,GT,GT5,4,10,C,-7.416666666,Average,53.6,Susceptible,No
+CR9-7320-T1-ITS,Pinus sylvestris needles collected from tree genotype 7320 at timepoint T1,7320,T1,EP1,C01,"""Hyper-oceanic""",CR,CR9,1,10,D,-13.6,Resistant,20.66666667,Average,No
+CR9-7320-T2-ITS,Pinus sylvestris needles collected from tree genotype 7320 at timepoint T2,7320,T2,EP5,G03,"""Hyper-oceanic""",CR,CR9,1,10,D,-13.6,Resistant,20.66666667,Average,No
+CR9-7320-T3-ITS,Pinus sylvestris needles collected from tree genotype 7320 at timepoint T3,7320,T3,EP7,C07,"""Hyper-oceanic""",CR,CR9,1,10,D,-13.6,Resistant,20.66666667,Average,No
+RM10-7324-T1-ITS,Pinus sylvestris needles collected from tree genotype 7324 at timepoint T1,7324,T1,EP2,E11,Cairngorms,RM,RM10,5,11,A,-5.666666666,Susceptible,69,Susceptible,No
+RM10-7324-T2-ITS,Pinus sylvestris needles collected from tree genotype 7324 at timepoint T2,7324,T2,EP4,C11,Cairngorms,RM,RM10,5,11,A,-5.666666666,Susceptible,69,Susceptible,No
+RM10-7324-T3-ITS,Pinus sylvestris needles collected from tree genotype 7324 at timepoint T3,7324,T3,EP6_and_EP9,E04,Cairngorms,RM,RM10,5,11,A,-5.666666666,Susceptible,69,Susceptible,No
+BB5-7326-T1-ITS,Pinus sylvestris needles collected from tree genotype 7326 at timepoint T1,7326,T1,EP2,F04,Cairngorms,BB,BB5,3,11,A,-9.066666666,Average,91.53333333,Susceptible,Yes
+BB5-7326-T2-ITS,Pinus sylvestris needles collected from tree genotype 7326 at timepoint T2,7326,T2,EP6_and_EP9,F04,Cairngorms,BB,BB5,3,11,A,-9.066666666,Average,91.53333333,Susceptible,Yes
+BB5-7326-T3-ITS,Pinus sylvestris needles collected from tree genotype 7326 at timepoint T3,7326,T3,EP7,E03,Cairngorms,BB,BB5,3,11,A,-9.066666666,Average,91.53333333,Susceptible,Yes
+AC1-7329-T1-ITS,Pinus sylvestris needles collected from tree genotype 7329 at timepoint T1,7329,T1,EP2,G07,Cairngorms,AC,AC1,8,11,B,-8.033333334,Average,11.2,Resistant,No
+AC1-7329-T2-ITS,Pinus sylvestris needles collected from tree genotype 7329 at timepoint T2,7329,T2,EP5,E04,Cairngorms,AC,AC1,8,11,B,-8.033333334,Average,11.2,Resistant,No
+AC1-7329-T3-ITS,Pinus sylvestris needles collected from tree genotype 7329 at timepoint T3,7329,T3,EP8,C09,Cairngorms,AC,AC1,8,11,B,-8.033333334,Average,11.2,Resistant,No
+GE8-7333-T2-ITS,Pinus sylvestris needles collected from tree genotype 7333 at timepoint T2,7333,T2,EP6_and_EP9,A02,"""Central Atlantic""",GE,GE8,4,11,B,-14.33333333,Resistant,16,Average,No
+GE8-7333-T3-ITS,Pinus sylvestris needles collected from tree genotype 7333 at timepoint T3,7333,T3,EP8,F09,"""Central Atlantic""",GE,GE8,4,11,B,-14.33333333,Resistant,16,Average,No
+BE5-7334-T1-ITS,Pinus sylvestris needles collected from tree genotype 7334 at timepoint T1,7334,T1,EP2,A10,"""Hyper-oceanic""",BE,BE5,3,11,B,-13.56666667,Resistant,12.13333333,Resistant,No
+BE5-7334-T2-ITS,Pinus sylvestris needles collected from tree genotype 7334 at timepoint T2,7334,T2,EP5,H07,"""Hyper-oceanic""",BE,BE5,3,11,B,-13.56666667,Resistant,12.13333333,Resistant,No
+BE5-7334-T3-ITS,Pinus sylvestris needles collected from tree genotype 7334 at timepoint T3,7334,T3,EP8,F05,"""Hyper-oceanic""",BE,BE5,3,11,B,-13.56666667,Resistant,12.13333333,Resistant,No
+CR3-7338-T1-ITS,Pinus sylvestris needles collected from tree genotype 7338 at timepoint T1,7338,T1,EP1,D04,"""Hyper-oceanic""",CR,CR3,7,11,C,-9.266666668,Average,38.93333333,Average,No
+CR3-7338-T2-ITS,Pinus sylvestris needles collected from tree genotype 7338 at timepoint T2,7338,T2,EP4,G01,"""Hyper-oceanic""",CR,CR3,7,11,C,-9.266666668,Average,38.93333333,Average,No
+CR3-7338-T3-ITS,Pinus sylvestris needles collected from tree genotype 7338 at timepoint T3,7338,T3,EP8,G06,"""Hyper-oceanic""",CR,CR3,7,11,C,-9.266666668,Average,38.93333333,Average,No
+GT8-7341-T1-ITS,Pinus sylvestris needles collected from tree genotype 7341 at timepoint T1,7341,T1,EP1,G04,Cairngorms,GT,GT8,4,11,C,-10.56666667,Average,22.06666667,Average,No
+GT8-7341-T2-ITS,Pinus sylvestris needles collected from tree genotype 7341 at timepoint T2,7341,T2,EP6_and_EP9,A04,Cairngorms,GT,GT8,4,11,C,-10.56666667,Average,22.06666667,Average,No
+GT8-7341-T3-ITS,Pinus sylvestris needles collected from tree genotype 7341 at timepoint T3,7341,T3,EP8,A02,Cairngorms,GT,GT8,4,11,C,-10.56666667,Average,22.06666667,Average,No
+CG6-7344-T2-ITS,Pinus sylvestris needles collected from tree genotype 7344 at timepoint T2,7344,T2,EP4,G10,"""Hyper-oceanic""",CG,CG6,1,11,C,-12.6,Resistant,15.86666667,Average,No
+CG6-7344-T3-ITS,Pinus sylvestris needles collected from tree genotype 7344 at timepoint T3,7344,T3,EP8,E08,"""Hyper-oceanic""",CG,CG6,1,11,C,-12.6,Resistant,15.86666667,Average,No
+AC9-7346-T1-ITS,Pinus sylvestris needles collected from tree genotype 7346 at timepoint T1,7346,T1,EP1,H03,Cairngorms,AC,AC9,7,11,D,-4.766666668,Susceptible,14.26666667,Resistant,No
+AC9-7346-T2-ITS,Pinus sylvestris needles collected from tree genotype 7346 at timepoint T2,7346,T2,EP5,C07,Cairngorms,AC,AC9,7,11,D,-4.766666668,Susceptible,14.26666667,Resistant,No
+AC9-7346-T3-ITS,Pinus sylvestris needles collected from tree genotype 7346 at timepoint T3,7346,T3,EP7,F05,Cairngorms,AC,AC9,7,11,D,-4.766666668,Susceptible,14.26666667,Resistant,No
+CR10-7348-T1-ITS,Pinus sylvestris needles collected from tree genotype 7348 at timepoint T1,7348,T1,EP3,D08,"""Hyper-oceanic""",CR,CR10,5,11,D,-9.866666666,Average,14.26666667,Resistant,No
+CR10-7348-T2-ITS,Pinus sylvestris needles collected from tree genotype 7348 at timepoint T2,7348,T2,EP6_and_EP9,F03,"""Hyper-oceanic""",CR,CR10,5,11,D,-9.866666666,Average,14.26666667,Resistant,No
+CR10-7348-T3-ITS,Pinus sylvestris needles collected from tree genotype 7348 at timepoint T3,7348,T3,EP7,G03,"""Hyper-oceanic""",CR,CR10,5,11,D,-9.866666666,Average,14.26666667,Resistant,No
+GT6-7349-T1-ITS,Pinus sylvestris needles collected from tree genotype 7349 at timepoint T1,7349,T1,EP3,C03,Cairngorms,GT,GT6,4,11,D,-9.933333334,Average,32.26666667,Average,No
+GT6-7349-T2-ITS,Pinus sylvestris needles collected from tree genotype 7349 at timepoint T2,7349,T2,EP5,B12,Cairngorms,GT,GT6,4,11,D,-9.933333334,Average,32.26666667,Average,No
+GT6-7349-T3-ITS,Pinus sylvestris needles collected from tree genotype 7349 at timepoint T3,7349,T3,EP7,C04,Cairngorms,GT,GT6,4,11,D,-9.933333334,Average,32.26666667,Average,No
+RM10-7352-T1-ITS,Pinus sylvestris needles collected from tree genotype 7352 at timepoint T1,7352,T1,EP1,D01,Cairngorms,RM,RM10,1,11,D,-9.533333334,Average,21.2,Average,No
+RM10-7352-T2-ITS,Pinus sylvestris needles collected from tree genotype 7352 at timepoint T2,7352,T2,EP5,H06,Cairngorms,RM,RM10,1,11,D,-9.533333334,Average,21.2,Average,No
+RM10-7352-T3-ITS,Pinus sylvestris needles collected from tree genotype 7352 at timepoint T3,7352,T3,EP7,B01,Cairngorms,RM,RM10,1,11,D,-9.533333334,Average,21.2,Average,No
+BW10-7357-T1-ITS,Pinus sylvestris needles collected from tree genotype 7357 at timepoint T1,7357,T1,EP2,D05,"""Central Atlantic""",BW,BW10,4,12,A,-10.1,Average,26.93333333,Average,No
+BW10-7357-T2-ITS,Pinus sylvestris needles collected from tree genotype 7357 at timepoint T2,7357,T2,EP4,H06,"""Central Atlantic""",BW,BW10,4,12,A,-10.1,Average,26.93333333,Average,No
+BW10-7357-T3-ITS,Pinus sylvestris needles collected from tree genotype 7357 at timepoint T3,7357,T3,EP7,H04,"""Central Atlantic""",BW,BW10,4,12,A,-10.1,Average,26.93333333,Average,No
+RM4-7358-T1-ITS,Pinus sylvestris needles collected from tree genotype 7358 at timepoint T1,7358,T1,EP2,E04,Cairngorms,RM,RM4,3,12,A,-10.93333333,Average,36.46666667,Average,No
+RM4-7358-T2-ITS,Pinus sylvestris needles collected from tree genotype 7358 at timepoint T2,7358,T2,EP4,A07,Cairngorms,RM,RM4,3,12,A,-10.93333333,Average,36.46666667,Average,No
+RM4-7358-T3-ITS,Pinus sylvestris needles collected from tree genotype 7358 at timepoint T3,7358,T3,EP7,E10,Cairngorms,RM,RM4,3,12,A,-10.93333333,Average,36.46666667,Average,No
+BW2-7362-T1-ITS,Pinus sylvestris needles collected from tree genotype 7362 at timepoint T1,7362,T1,EP2,A02,"""Central Atlantic""",BW,BW2,7,12,B,-12.43333333,Resistant,14.6,Resistant,Yes
+BW2-7362-T2-ITS,Pinus sylvestris needles collected from tree genotype 7362 at timepoint T2,7362,T2,EP5,H11,"""Central Atlantic""",BW,BW2,7,12,B,-12.43333333,Resistant,14.6,Resistant,Yes
+BW2-7362-T3-ITS,Pinus sylvestris needles collected from tree genotype 7362 at timepoint T3,7362,T3,EP8,G08,"""Central Atlantic""",BW,BW2,7,12,B,-12.43333333,Resistant,14.6,Resistant,Yes
+BW7-7366-T1-ITS,Pinus sylvestris needles collected from tree genotype 7366 at timepoint T1,7366,T1,EP2,H09,"""Central Atlantic""",BW,BW7,3,12,B,-14.66666667,Resistant,5.4,Resistant,No
+BW7-7366-T2-ITS,Pinus sylvestris needles collected from tree genotype 7366 at timepoint T2,7366,T2,EP5,E02,"""Central Atlantic""",BW,BW7,3,12,B,-14.66666667,Resistant,5.4,Resistant,No
+BW7-7366-T3-ITS,Pinus sylvestris needles collected from tree genotype 7366 at timepoint T3,7366,T3,EP8,D05,"""Central Atlantic""",BW,BW7,3,12,B,-14.66666667,Resistant,5.4,Resistant,No
+GC8-7367-T1-ITS,Pinus sylvestris needles collected from tree genotype 7367 at timepoint T1,7367,T1,EP2,B09,"""Central Atlantic""",GC,GC8,2,12,B,-11.6,Average,32.86666667,Average,No
+GC8-7367-T2-ITS,Pinus sylvestris needles collected from tree genotype 7367 at timepoint T2,7367,T2,EP5,H10,"""Central Atlantic""",GC,GC8,2,12,B,-11.6,Average,32.86666667,Average,No
+GC8-7367-T3-ITS,Pinus sylvestris needles collected from tree genotype 7367 at timepoint T3,7367,T3,EP6_and_EP9,D04,"""Central Atlantic""",GC,GC8,2,12,B,-11.6,Average,32.86666667,Average,No
+GC1-7368-T1-ITS,Pinus sylvestris needles collected from tree genotype 7368 at timepoint T1,7368,T1,EP2,G08,"""Central Atlantic""",GC,GC1,1,12,B,-14.66666667,Resistant,19.86666667,Average,No
+GC1-7368-T2-ITS,Pinus sylvestris needles collected from tree genotype 7368 at timepoint T2,7368,T2,EP5,C08,"""Central Atlantic""",GC,GC1,1,12,B,-14.66666667,Resistant,19.86666667,Average,No
+GC1-7368-T3-ITS,Pinus sylvestris needles collected from tree genotype 7368 at timepoint T3,7368,T3,EP6_and_EP9,E01,"""Central Atlantic""",GC,GC1,1,12,B,-14.66666667,Resistant,19.86666667,Average,No
+CG3-7376-T1-ITS,Pinus sylvestris needles collected from tree genotype 7376 at timepoint T1,7376,T1,EP1,F10,"""Hyper-oceanic""",CG,CG3,1,12,C,-16.4,Resistant,6.4,Resistant,No
+CG3-7376-T2-ITS,Pinus sylvestris needles collected from tree genotype 7376 at timepoint T2,7376,T2,EP6_and_EP9,F02,"""Hyper-oceanic""",CG,CG3,1,12,C,-16.4,Resistant,6.4,Resistant,No
+CG3-7376-T3-ITS,Pinus sylvestris needles collected from tree genotype 7376 at timepoint T3,7376,T3,EP8,B05,"""Hyper-oceanic""",CG,CG3,1,12,C,-16.4,Resistant,6.4,Resistant,No
+GC8-7377-T1-ITS,Pinus sylvestris needles collected from tree genotype 7377 at timepoint T1,7377,T1,EP1,E02,"""Central Atlantic""",GC,GC8,8,12,D,-4.666666668,Susceptible,47.2,Susceptible,No
+GC8-7377-T2-ITS,Pinus sylvestris needles collected from tree genotype 7377 at timepoint T2,7377,T2,EP5,E07,"""Central Atlantic""",GC,GC8,8,12,D,-4.666666668,Susceptible,47.2,Susceptible,No
+GC8-7377-T3-ITS,Pinus sylvestris needles collected from tree genotype 7377 at timepoint T3,7377,T3,EP7,G01,"""Central Atlantic""",GC,GC8,8,12,D,-4.666666668,Susceptible,47.2,Susceptible,No
+BE7-7378-T1-ITS,Pinus sylvestris needles collected from tree genotype 7378 at timepoint T1,7378,T1,EP3,B02,"""Hyper-oceanic""",BE,BE7,7,12,D,-13.06666667,Resistant,30.93333333,Average,No
+BE7-7378-T2-ITS,Pinus sylvestris needles collected from tree genotype 7378 at timepoint T2,7378,T2,EP5,H09,"""Hyper-oceanic""",BE,BE7,7,12,D,-13.06666667,Resistant,30.93333333,Average,No
+BE7-7378-T3-ITS,Pinus sylvestris needles collected from tree genotype 7378 at timepoint T3,7378,T3,EP7,B04,"""Hyper-oceanic""",BE,BE7,7,12,D,-13.06666667,Resistant,30.93333333,Average,No
+CG3-7382-T1-ITS,Pinus sylvestris needles collected from tree genotype 7382 at timepoint T1,7382,T1,EP1,G12,"""Hyper-oceanic""",CG,CG3,3,12,D,-6.066666666,Susceptible,9.333333334,Resistant,No
+CG3-7382-T2-ITS,Pinus sylvestris needles collected from tree genotype 7382 at timepoint T2,7382,T2,EP5,G11,"""Hyper-oceanic""",CG,CG3,3,12,D,-6.066666666,Susceptible,9.333333334,Resistant,No
+CG3-7382-T3-ITS,Pinus sylvestris needles collected from tree genotype 7382 at timepoint T3,7382,T3,EP6_and_EP9,C01,"""Hyper-oceanic""",CG,CG3,3,12,D,-6.066666666,Susceptible,9.333333334,Resistant,No
+GE2-7383-T1-ITS,Pinus sylvestris needles collected from tree genotype 7383 at timepoint T1,7383,T1,EP1,D10,"""Central Atlantic""",GE,GE2,2,12,D,-10.9,Average,10.66666667,Resistant,Yes
+GE2-7383-T2-ITS,Pinus sylvestris needles collected from tree genotype 7383 at timepoint T2,7383,T2,EP5,D03,"""Central Atlantic""",GE,GE2,2,12,D,-10.9,Average,10.66666667,Resistant,Yes
+GE2-7383-T3-ITS,Pinus sylvestris needles collected from tree genotype 7383 at timepoint T3,7383,T3,EP7,F04,"""Central Atlantic""",GE,GE2,2,12,D,-10.9,Average,10.66666667,Resistant,Yes
+GT1-7384-T1-ITS,Pinus sylvestris needles collected from tree genotype 7384 at timepoint T1,7384,T1,EP1,H06,Cairngorms,GT,GT1,1,12,D,-10.4,Average,17.33333333,Average,No
+GT1-7384-T2-ITS,Pinus sylvestris needles collected from tree genotype 7384 at timepoint T2,7384,T2,EP5,C09,Cairngorms,GT,GT1,1,12,D,-10.4,Average,17.33333333,Average,No
+GT1-7384-T3-ITS,Pinus sylvestris needles collected from tree genotype 7384 at timepoint T3,7384,T3,EP7,F01,Cairngorms,GT,GT1,1,12,D,-10.4,Average,17.33333333,Average,No
+CR9-7389-T1-ITS,Pinus sylvestris needles collected from tree genotype 7389 at timepoint T1,7389,T1,EP2,H12,"""Hyper-oceanic""",CR,CR9,4,13,A,-14,Resistant,93.86666668,Susceptible,No
+CR9-7389-T2-ITS,Pinus sylvestris needles collected from tree genotype 7389 at timepoint T2,7389,T2,EP4,H11,"""Hyper-oceanic""",CR,CR9,4,13,A,-14,Resistant,93.86666668,Susceptible,No
+CR9-7389-T3-ITS,Pinus sylvestris needles collected from tree genotype 7389 at timepoint T3,7389,T3,EP7,F11,"""Hyper-oceanic""",CR,CR9,4,13,A,-14,Resistant,93.86666668,Susceptible,No
+RM1-7391-T1-ITS,Pinus sylvestris needles collected from tree genotype 7391 at timepoint T1,7391,T1,EP2,B10,Cairngorms,RM,RM1,2,13,A,-13.26666667,Resistant,34.93333333,Average,No
+RM1-7391-T2-ITS,Pinus sylvestris needles collected from tree genotype 7391 at timepoint T2,7391,T2,EP4,G07,Cairngorms,RM,RM1,2,13,A,-13.26666667,Resistant,34.93333333,Average,No
+RM1-7391-T3-ITS,Pinus sylvestris needles collected from tree genotype 7391 at timepoint T3,7391,T3,EP7,E11,Cairngorms,RM,RM1,2,13,A,-13.26666667,Resistant,34.93333333,Average,No
+BW10-7396-T1-ITS,Pinus sylvestris needles collected from tree genotype 7396 at timepoint T1,7396,T1,EP2,D04,"""Central Atlantic""",BW,BW10,5,13,B,-15.26666667,Resistant,13.2,Resistant,Yes
+BW10-7396-T2-ITS,Pinus sylvestris needles collected from tree genotype 7396 at timepoint T2,7396,T2,EP5,D11,"""Central Atlantic""",BW,BW10,5,13,B,-15.26666667,Resistant,13.2,Resistant,Yes
+BW10-7396-T3-ITS,Pinus sylvestris needles collected from tree genotype 7396 at timepoint T3,7396,T3,EP6_and_EP9,D03,"""Central Atlantic""",BW,BW10,5,13,B,-15.26666667,Resistant,13.2,Resistant,Yes
+RM10-7402-T1-ITS,Pinus sylvestris needles collected from tree genotype 7402 at timepoint T1,7402,T1,EP3,B05,Cairngorms,RM,RM10,7,13,C,-8.85,Average,13.26666667,Resistant,No
+RM10-7402-T2-ITS,Pinus sylvestris needles collected from tree genotype 7402 at timepoint T2,7402,T2,EP4,F10,Cairngorms,RM,RM10,7,13,C,-8.85,Average,13.26666667,Resistant,No
+RM10-7402-T3-ITS,Pinus sylvestris needles collected from tree genotype 7402 at timepoint T3,7402,T3,EP8,C01,Cairngorms,RM,RM10,7,13,C,-8.85,Average,13.26666667,Resistant,No
+CG4-7406-T1-ITS,Pinus sylvestris needles collected from tree genotype 7406 at timepoint T1,7406,T1,EP1,D12,"""Hyper-oceanic""",CG,CG4,3,13,C,-12.28333333,Resistant,7,Resistant,No
+CG4-7406-T2-ITS,Pinus sylvestris needles collected from tree genotype 7406 at timepoint T2,7406,T2,EP4,H02,"""Hyper-oceanic""",CG,CG4,3,13,C,-12.28333333,Resistant,7,Resistant,No
+CG4-7406-T3-ITS,Pinus sylvestris needles collected from tree genotype 7406 at timepoint T3,7406,T3,EP6_and_EP9,D02,"""Hyper-oceanic""",CG,CG4,3,13,C,-12.28333333,Resistant,7,Resistant,No
+GT1-7407-T1-ITS,Pinus sylvestris needles collected from tree genotype 7407 at timepoint T1,7407,T1,EP1,B02,Cairngorms,GT,GT1,2,13,C,-13.26666667,Resistant,19.06666667,Average,No
+GT1-7407-T2-ITS,Pinus sylvestris needles collected from tree genotype 7407 at timepoint T2,7407,T2,EP4,C01,Cairngorms,GT,GT1,2,13,C,-13.26666667,Resistant,19.06666667,Average,No
+GT1-7407-T3-ITS,Pinus sylvestris needles collected from tree genotype 7407 at timepoint T3,7407,T3,EP8,H04,Cairngorms,GT,GT1,2,13,C,-13.26666667,Resistant,19.06666667,Average,No
+BB1-7409-T1-ITS,Pinus sylvestris needles collected from tree genotype 7409 at timepoint T1,7409,T1,EP3,F08,Cairngorms,BB,BB1,8,13,D,-7.333333334,Average,28.26666667,Average,No
+BB1-7409-T2-ITS,Pinus sylvestris needles collected from tree genotype 7409 at timepoint T2,7409,T2,EP5,E08,Cairngorms,BB,BB1,8,13,D,-7.333333334,Average,28.26666667,Average,No
+BB1-7409-T3-ITS,Pinus sylvestris needles collected from tree genotype 7409 at timepoint T3,7409,T3,EP7,A08,Cairngorms,BB,BB1,8,13,D,-7.333333334,Average,28.26666667,Average,No
+RM4-7411-T1-ITS,Pinus sylvestris needles collected from tree genotype 7411 at timepoint T1,7411,T1,EP1,A03,Cairngorms,RM,RM4,6,13,D,-6.6,Susceptible,14,Resistant,Yes
+RM4-7411-T2-ITS,Pinus sylvestris needles collected from tree genotype 7411 at timepoint T2,7411,T2,EP5,E05,Cairngorms,RM,RM4,6,13,D,-6.6,Susceptible,14,Resistant,Yes
+RM4-7411-T3-ITS,Pinus sylvestris needles collected from tree genotype 7411 at timepoint T3,7411,T3,EP7,H03,Cairngorms,RM,RM4,6,13,D,-6.6,Susceptible,14,Resistant,Yes
+BB5-7412-T1-ITS,Pinus sylvestris needles collected from tree genotype 7412 at timepoint T1,7412,T1,EP1,H04,Cairngorms,BB,BB5,5,13,D,-5.833333334,Susceptible,17.06666667,Average,Yes
+BB5-7412-T2-ITS,Pinus sylvestris needles collected from tree genotype 7412 at timepoint T2,7412,T2,EP5,F06,Cairngorms,BB,BB5,5,13,D,-5.833333334,Susceptible,17.06666667,Average,Yes
+BB5-7412-T3-ITS,Pinus sylvestris needles collected from tree genotype 7412 at timepoint T3,7412,T3,EP7,F10,Cairngorms,BB,BB5,5,13,D,-5.833333334,Susceptible,17.06666667,Average,Yes
+GT8-7420-T1-ITS,Pinus sylvestris needles collected from tree genotype 7420 at timepoint T1,7420,T1,EP3,A03,Cairngorms,GT,GT8,5,14,A,-5.633333332,Susceptible,52.93333333,Susceptible,No
+GT8-7420-T2-ITS,Pinus sylvestris needles collected from tree genotype 7420 at timepoint T2,7420,T2,EP4,C09,Cairngorms,GT,GT8,5,14,A,-5.633333332,Susceptible,52.93333333,Susceptible,No
+GT8-7420-T3-ITS,Pinus sylvestris needles collected from tree genotype 7420 at timepoint T3,7420,T3,EP7,D03,Cairngorms,GT,GT8,5,14,A,-5.633333332,Susceptible,52.93333333,Susceptible,No
+GE7-7423-T1-ITS,Pinus sylvestris needles collected from tree genotype 7423 at timepoint T1,7423,T1,EP2,D02,"""Central Atlantic""",GE,GE7,2,14,A,-10.11666667,Average,33.86666667,Average,No
+GE7-7423-T2-ITS,Pinus sylvestris needles collected from tree genotype 7423 at timepoint T2,7423,T2,EP4,E08,"""Central Atlantic""",GE,GE7,2,14,A,-10.11666667,Average,33.86666667,Average,No
+GE7-7423-T3-ITS,Pinus sylvestris needles collected from tree genotype 7423 at timepoint T3,7423,T3,EP7,C12,"""Central Atlantic""",GE,GE7,2,14,A,-10.11666667,Average,33.86666667,Average,No
+CG4-7425-T1-ITS,Pinus sylvestris needles collected from tree genotype 7425 at timepoint T1,7425,T1,EP2,B08,"""Hyper-oceanic""",CG,CG4,8,14,B,-14.46666667,Resistant,7.4,Resistant,No
+CG4-7425-T2-ITS,Pinus sylvestris needles collected from tree genotype 7425 at timepoint T2,7425,T2,EP6_and_EP9,A05,"""Hyper-oceanic""",CG,CG4,8,14,B,-14.46666667,Resistant,7.4,Resistant,No
+CG4-7425-T3-ITS,Pinus sylvestris needles collected from tree genotype 7425 at timepoint T3,7425,T3,EP8,A05,"""Hyper-oceanic""",CG,CG4,8,14,B,-14.46666667,Resistant,7.4,Resistant,No
+GE7-7427-T1-ITS,Pinus sylvestris needles collected from tree genotype 7427 at timepoint T1,7427,T1,EP2,D08,"""Central Atlantic""",GE,GE7,6,14,B,-5.266666666,Susceptible,16.66666667,Average,No
+GE7-7427-T2-ITS,Pinus sylvestris needles collected from tree genotype 7427 at timepoint T2,7427,T2,EP5,G06,"""Central Atlantic""",GE,GE7,6,14,B,-5.266666666,Susceptible,16.66666667,Average,No
+GE7-7427-T3-ITS,Pinus sylvestris needles collected from tree genotype 7427 at timepoint T3,7427,T3,EP6_and_EP9,G05,"""Central Atlantic""",GE,GE7,6,14,B,-5.266666666,Susceptible,16.66666667,Average,No
+BW3-7429-T1-ITS,Pinus sylvestris needles collected from tree genotype 7429 at timepoint T1,7429,T1,EP2,C04,"""Central Atlantic""",BW,BW3,4,14,B,-14.33333333,Resistant,8.066666666,Resistant,No
+BW3-7429-T2-ITS,Pinus sylvestris needles collected from tree genotype 7429 at timepoint T2,7429,T2,EP6_and_EP9,D03,"""Central Atlantic""",BW,BW3,4,14,B,-14.33333333,Resistant,8.066666666,Resistant,No
+BW3-7429-T3-ITS,Pinus sylvestris needles collected from tree genotype 7429 at timepoint T3,7429,T3,EP8,F01,"""Central Atlantic""",BW,BW3,4,14,B,-14.33333333,Resistant,8.066666666,Resistant,No
+CR10-7431-T1-ITS,Pinus sylvestris needles collected from tree genotype 7431 at timepoint T1,7431,T1,EP2,A08,"""Hyper-oceanic""",CR,CR10,2,14,B,-10.73333333,Average,22.66666667,Average,No
+CR10-7431-T2-ITS,Pinus sylvestris needles collected from tree genotype 7431 at timepoint T2,7431,T2,EP5,G12,"""Hyper-oceanic""",CR,CR10,2,14,B,-10.73333333,Average,22.66666667,Average,No
+CR10-7431-T3-ITS,Pinus sylvestris needles collected from tree genotype 7431 at timepoint T3,7431,T3,EP8,B04,"""Hyper-oceanic""",CR,CR10,2,14,B,-10.73333333,Average,22.66666667,Average,No
+CG7-7434-T1-ITS,Pinus sylvestris needles collected from tree genotype 7434 at timepoint T1,7434,T1,EP3,F02,"""Hyper-oceanic""",CG,CG7,7,14,C,-10.43333333,Average,18.26666667,Average,No
+CG7-7434-T2-ITS,Pinus sylvestris needles collected from tree genotype 7434 at timepoint T2,7434,T2,EP4,G09,"""Hyper-oceanic""",CG,CG7,7,14,C,-10.43333333,Average,18.26666667,Average,No
+CG7-7434-T3-ITS,Pinus sylvestris needles collected from tree genotype 7434 at timepoint T3,7434,T3,EP8,D07,"""Hyper-oceanic""",CG,CG7,7,14,C,-10.43333333,Average,18.26666667,Average,No
+RM4-7436-T1-ITS,Pinus sylvestris needles collected from tree genotype 7436 at timepoint T1,7436,T1,EP1,F04,Cairngorms,RM,RM4,5,14,C,-6.916666666,Susceptible,31.2,Average,Yes
+RM4-7436-T2-ITS,Pinus sylvestris needles collected from tree genotype 7436 at timepoint T2,7436,T2,EP4,F08,Cairngorms,RM,RM4,5,14,C,-6.916666666,Susceptible,31.2,Average,Yes
+RM4-7436-T3-ITS,Pinus sylvestris needles collected from tree genotype 7436 at timepoint T3,7436,T3,EP8,C08,Cairngorms,RM,RM4,5,14,C,-6.916666666,Susceptible,31.2,Average,Yes
+AC7-7439-T1-ITS,Pinus sylvestris needles collected from tree genotype 7439 at timepoint T1,7439,T1,EP3,E04,Cairngorms,AC,AC7,2,14,C,-9.333333332,Average,8,Resistant,No
+AC7-7439-T2-ITS,Pinus sylvestris needles collected from tree genotype 7439 at timepoint T2,7439,T2,EP4,A09,Cairngorms,AC,AC7,2,14,C,-9.333333332,Average,8,Resistant,No
+AC7-7439-T3-ITS,Pinus sylvestris needles collected from tree genotype 7439 at timepoint T3,7439,T3,EP8,B12,Cairngorms,AC,AC7,2,14,C,-9.333333332,Average,8,Resistant,No
+CR3-7445-T1-ITS,Pinus sylvestris needles collected from tree genotype 7445 at timepoint T1,7445,T1,EP1,E01,"""Hyper-oceanic""",CR,CR3,4,14,D,-12.43333333,Resistant,42.93333334,Average,No
+CR3-7445-T2-ITS,Pinus sylvestris needles collected from tree genotype 7445 at timepoint T2,7445,T2,EP5,A12,"""Hyper-oceanic""",CR,CR3,4,14,D,-12.43333333,Resistant,42.93333334,Average,No
+CR3-7445-T3-ITS,Pinus sylvestris needles collected from tree genotype 7445 at timepoint T3,7445,T3,EP7,C01,"""Hyper-oceanic""",CR,CR3,4,14,D,-12.43333333,Resistant,42.93333334,Average,No
+AC8-7453-T1-ITS,Pinus sylvestris needles collected from tree genotype 7453 at timepoint T1,7453,T1,EP2,A07,Cairngorms,AC,AC8,4,15,A,-4.633333334,Susceptible,18.93333333,Average,No
+AC8-7453-T2-ITS,Pinus sylvestris needles collected from tree genotype 7453 at timepoint T2,7453,T2,EP4,H12,Cairngorms,AC,AC8,4,15,A,-4.633333334,Susceptible,18.93333333,Average,No
+AC8-7453-T3-ITS,Pinus sylvestris needles collected from tree genotype 7453 at timepoint T3,7453,T3,EP7,C10,Cairngorms,AC,AC8,4,15,A,-4.633333334,Susceptible,18.93333333,Average,No
+BE7-7455-T1-ITS,Pinus sylvestris needles collected from tree genotype 7455 at timepoint T1,7455,T1,EP2,G01,"""Hyper-oceanic""",BE,BE7,2,15,A,-14.26666667,Resistant,41.26666667,Average,No
+BE7-7455-T2-ITS,Pinus sylvestris needles collected from tree genotype 7455 at timepoint T2,7455,T2,EP4,B11,"""Hyper-oceanic""",BE,BE7,2,15,A,-14.26666667,Resistant,41.26666667,Average,No
+BE7-7455-T3-ITS,Pinus sylvestris needles collected from tree genotype 7455 at timepoint T3,7455,T3,EP7,H06,"""Hyper-oceanic""",BE,BE7,2,15,A,-14.26666667,Resistant,41.26666667,Average,No
+GT5-7456-T1-ITS,Pinus sylvestris needles collected from tree genotype 7456 at timepoint T1,7456,T1,EP2,F08,Cairngorms,GT,GT5,1,15,A,-9.933333332,Average,36.26666667,Average,No
+GT5-7456-T2-ITS,Pinus sylvestris needles collected from tree genotype 7456 at timepoint T2,7456,T2,EP4,E12,Cairngorms,GT,GT5,1,15,A,-9.933333332,Average,36.26666667,Average,No
+GT5-7456-T3-ITS,Pinus sylvestris needles collected from tree genotype 7456 at timepoint T3,7456,T3,EP7,A01,Cairngorms,GT,GT5,1,15,A,-9.933333332,Average,36.26666667,Average,No
+GC5-7457-T1-ITS,Pinus sylvestris needles collected from tree genotype 7457 at timepoint T1,7457,T1,EP2,F09,"""Central Atlantic""",GC,GC5,8,15,B,-14.33333333,Resistant,16.06666667,Average,No
+GC5-7457-T2-ITS,Pinus sylvestris needles collected from tree genotype 7457 at timepoint T2,7457,T2,EP5,F10,"""Central Atlantic""",GC,GC5,8,15,B,-14.33333333,Resistant,16.06666667,Average,No
+GC5-7457-T3-ITS,Pinus sylvestris needles collected from tree genotype 7457 at timepoint T3,7457,T3,EP8,G11,"""Central Atlantic""",GC,GC5,8,15,B,-14.33333333,Resistant,16.06666667,Average,No
+AC2-7464-T1-ITS,Pinus sylvestris needles collected from tree genotype 7464 at timepoint T1,7464,T1,EP2,D06,Cairngorms,AC,AC2,1,15,B,-6.333333332,Susceptible,17.33333333,Average,No
+AC2-7464-T2-ITS,Pinus sylvestris needles collected from tree genotype 7464 at timepoint T2,7464,T2,EP5,A05,Cairngorms,AC,AC2,1,15,B,-6.333333332,Susceptible,17.33333333,Average,No
+AC2-7464-T3-ITS,Pinus sylvestris needles collected from tree genotype 7464 at timepoint T3,7464,T3,EP8,H10,Cairngorms,AC,AC2,1,15,B,-6.333333332,Susceptible,17.33333333,Average,No
+CR9-7469-T1-ITS,Pinus sylvestris needles collected from tree genotype 7469 at timepoint T1,7469,T1,EP1,E04,"""Hyper-oceanic""",CR,CR9,4,15,C,-6.3,Susceptible,32.6,Average,No
+CR9-7469-T2-ITS,Pinus sylvestris needles collected from tree genotype 7469 at timepoint T2,7469,T2,EP6_and_EP9,G04,"""Hyper-oceanic""",CR,CR9,4,15,C,-6.3,Susceptible,32.6,Average,No
+CR9-7469-T3-ITS,Pinus sylvestris needles collected from tree genotype 7469 at timepoint T3,7469,T3,EP8,A09,"""Hyper-oceanic""",CR,CR9,4,15,C,-6.3,Susceptible,32.6,Average,No
+AC2-7474-T1-ITS,Pinus sylvestris needles collected from tree genotype 7474 at timepoint T1,7474,T1,EP3,B01,Cairngorms,AC,AC2,7,15,D,-8.466666668,Average,24.8,Average,No
+AC2-7474-T2-ITS,Pinus sylvestris needles collected from tree genotype 7474 at timepoint T2,7474,T2,EP5,A09,Cairngorms,AC,AC2,7,15,D,-8.466666668,Average,24.8,Average,No
+AC2-7474-T3-ITS,Pinus sylvestris needles collected from tree genotype 7474 at timepoint T3,7474,T3,EP7,A03,Cairngorms,AC,AC2,7,15,D,-8.466666668,Average,24.8,Average,No
+GE9-7480-T1-ITS,Pinus sylvestris needles collected from tree genotype 7480 at timepoint T1,7480,T1,EP3,H07,"""Central Atlantic""",GE,GE9,1,15,D,-4.333333334,Susceptible,40.26666667,Average,Yes
+GE9-7480-T2-ITS,Pinus sylvestris needles collected from tree genotype 7480 at timepoint T2,7480,T2,EP5,A01,"""Central Atlantic""",GE,GE9,1,15,D,-4.333333334,Susceptible,40.26666667,Average,Yes
+GE9-7480-T3-ITS,Pinus sylvestris needles collected from tree genotype 7480 at timepoint T3,7480,T3,EP7,E08,"""Central Atlantic""",GE,GE9,1,15,D,-4.333333334,Susceptible,40.26666667,Average,Yes
+GT1-7482-T1-ITS,Pinus sylvestris needles collected from tree genotype 7482 at timepoint T1,7482,T1,EP2,D12,Cairngorms,GT,GT1,7,16,A,-6.233333332,Susceptible,46.66666667,Susceptible,No
+GT1-7482-T2-ITS,Pinus sylvestris needles collected from tree genotype 7482 at timepoint T2,7482,T2,EP4,E06,Cairngorms,GT,GT1,7,16,A,-6.233333332,Susceptible,46.66666667,Susceptible,No
+GT1-7482-T3-ITS,Pinus sylvestris needles collected from tree genotype 7482 at timepoint T3,7482,T3,EP6_and_EP9,F01,Cairngorms,GT,GT1,7,16,A,-6.233333332,Susceptible,46.66666667,Susceptible,No
+GE2-7483-T1-ITS,Pinus sylvestris needles collected from tree genotype 7483 at timepoint T1,7483,T1,EP3,D02,"""Central Atlantic""",GE,GE2,6,16,A,-11.1,Average,31.6,Average,No
+GE2-7483-T2-ITS,Pinus sylvestris needles collected from tree genotype 7483 at timepoint T2,7483,T2,EP4,H08,"""Central Atlantic""",GE,GE2,6,16,A,-11.1,Average,31.6,Average,No
+GE2-7483-T3-ITS,Pinus sylvestris needles collected from tree genotype 7483 at timepoint T3,7483,T3,EP7,G09,"""Central Atlantic""",GE,GE2,6,16,A,-11.1,Average,31.6,Average,No
+GT6-7486-T1-ITS,Pinus sylvestris needles collected from tree genotype 7486 at timepoint T1,7486,T1,EP2,A05,Cairngorms,GT,GT6,3,16,A,-12.26666667,Resistant,38.53333334,Average,No
+GT6-7486-T2-ITS,Pinus sylvestris needles collected from tree genotype 7486 at timepoint T2,7486,T2,EP4,B06,Cairngorms,GT,GT6,3,16,A,-12.26666667,Resistant,38.53333334,Average,No
+GT6-7486-T3-ITS,Pinus sylvestris needles collected from tree genotype 7486 at timepoint T3,7486,T3,EP7,B03,Cairngorms,GT,GT6,3,16,A,-12.26666667,Resistant,38.53333334,Average,No
+CR10-7497-T1-ITS,Pinus sylvestris needles collected from tree genotype 7497 at timepoint T1,7497,T1,EP3,H02,"""Hyper-oceanic""",CR,CR10,8,16,C,-8.733333332,Average,23.26666667,Average,No
+CR10-7497-T2-ITS,Pinus sylvestris needles collected from tree genotype 7497 at timepoint T2,7497,T2,EP4,H07,"""Hyper-oceanic""",CR,CR10,8,16,C,-8.733333332,Average,23.26666667,Average,No
+CR10-7497-T3-ITS,Pinus sylvestris needles collected from tree genotype 7497 at timepoint T3,7497,T3,EP6_and_EP9,H05,"""Hyper-oceanic""",CR,CR10,8,16,C,-8.733333332,Average,23.26666667,Average,No
+BE2-7500-T1-ITS,Pinus sylvestris needles collected from tree genotype 7500 at timepoint T1,7500,T1,EP1,H12,"""Hyper-oceanic""",BE,BE2,5,16,C,-5.3,Susceptible,34.26666667,Average,Yes
+BE2-7500-T2-ITS,Pinus sylvestris needles collected from tree genotype 7500 at timepoint T2,7500,T2,EP6_and_EP9,E02,"""Hyper-oceanic""",BE,BE2,5,16,C,-5.3,Susceptible,34.26666667,Average,Yes
+BE2-7500-T3-ITS,Pinus sylvestris needles collected from tree genotype 7500 at timepoint T3,7500,T3,EP8,G10,"""Hyper-oceanic""",BE,BE2,5,16,C,-5.3,Susceptible,34.26666667,Average,Yes
+GC8-7501-T1-ITS,Pinus sylvestris needles collected from tree genotype 7501 at timepoint T1,7501,T1,EP1,C02,"""Central Atlantic""",GC,GC8,4,16,C,-3.216666668,Susceptible,29.33333333,Average,No
+GC8-7501-T2-ITS,Pinus sylvestris needles collected from tree genotype 7501 at timepoint T2,7501,T2,EP4,E11,"""Central Atlantic""",GC,GC8,4,16,C,-3.216666668,Susceptible,29.33333333,Average,No
+GC8-7501-T3-ITS,Pinus sylvestris needles collected from tree genotype 7501 at timepoint T3,7501,T3,EP8,G03,"""Central Atlantic""",GC,GC8,4,16,C,-3.216666668,Susceptible,29.33333333,Average,No
+BB1-7504-T1-ITS,Pinus sylvestris needles collected from tree genotype 7504 at timepoint T1,7504,T1,EP1,F02,Cairngorms,BB,BB1,1,16,C,-5.1,Susceptible,14.26666667,Resistant,No
+BB1-7504-T2-ITS,Pinus sylvestris needles collected from tree genotype 7504 at timepoint T2,7504,T2,EP4,B02,Cairngorms,BB,BB1,1,16,C,-5.1,Susceptible,14.26666667,Resistant,No
+BB1-7504-T3-ITS,Pinus sylvestris needles collected from tree genotype 7504 at timepoint T3,7504,T3,EP8,B06,Cairngorms,BB,BB1,1,16,C,-5.1,Susceptible,14.26666667,Resistant,No
+BW7-7506-T1-ITS,Pinus sylvestris needles collected from tree genotype 7506 at timepoint T1,7506,T1,EP3,C03,"""Central Atlantic""",BW,BW7,7,16,D,-12.06666667,Resistant,25.33333333,Average,No
+BW7-7506-T2-ITS,Pinus sylvestris needles collected from tree genotype 7506 at timepoint T2,7506,T2,EP5,B08,"""Central Atlantic""",BW,BW7,7,16,D,-12.06666667,Resistant,25.33333333,Average,No
+BW7-7506-T3-ITS,Pinus sylvestris needles collected from tree genotype 7506 at timepoint T3,7506,T3,EP7,C02,"""Central Atlantic""",BW,BW7,7,16,D,-12.06666667,Resistant,25.33333333,Average,No
+GC2-7507-T1-ITS,Pinus sylvestris needles collected from tree genotype 7507 at timepoint T1,7507,T1,EP3,G02,"""Central Atlantic""",GC,GC2,6,16,D,-13.6,Resistant,9.6,Resistant,Yes
+GC2-7507-T2-ITS,Pinus sylvestris needles collected from tree genotype 7507 at timepoint T2,7507,T2,EP5,D04,"""Central Atlantic""",GC,GC2,6,16,D,-13.6,Resistant,9.6,Resistant,Yes
+GC2-7507-T3-ITS,Pinus sylvestris needles collected from tree genotype 7507 at timepoint T3,7507,T3,EP7,F08,"""Central Atlantic""",GC,GC2,6,16,D,-13.6,Resistant,9.6,Resistant,Yes
+BE5-7509-T1-ITS,Pinus sylvestris needles collected from tree genotype 7509 at timepoint T1,7509,T1,EP1,A02,"""Hyper-oceanic""",BE,BE5,4,16,D,-8.35,Average,28.86666667,Average,No
+BE5-7509-T2-ITS,Pinus sylvestris needles collected from tree genotype 7509 at timepoint T2,7509,T2,EP5,F12,"""Hyper-oceanic""",BE,BE5,4,16,D,-8.35,Average,28.86666667,Average,No
+BE5-7509-T3-ITS,Pinus sylvestris needles collected from tree genotype 7509 at timepoint T3,7509,T3,EP7,E01,"""Hyper-oceanic""",BE,BE5,4,16,D,-8.35,Average,28.86666667,Average,No
+BE2-7510-T1-ITS,Pinus sylvestris needles collected from tree genotype 7510 at timepoint T1,7510,T1,EP1,D02,"""Hyper-oceanic""",BE,BE2,3,16,D,-3.4,Susceptible,47.86666667,Susceptible,Yes
+BE2-7510-T2-ITS,Pinus sylvestris needles collected from tree genotype 7510 at timepoint T2,7510,T2,EP5,A07,"""Hyper-oceanic""",BE,BE2,3,16,D,-3.4,Susceptible,47.86666667,Susceptible,Yes
+BE2-7510-T3-ITS,Pinus sylvestris needles collected from tree genotype 7510 at timepoint T3,7510,T3,EP6_and_EP9,E03,"""Hyper-oceanic""",BE,BE2,3,16,D,-3.4,Susceptible,47.86666667,Susceptible,Yes
+BE3-7514-T1-ITS,Pinus sylvestris needles collected from tree genotype 7514 at timepoint T1,7514,T1,EP2,H10,"""Hyper-oceanic""",BE,BE3,7,17,A,-6.166666666,Susceptible,47.33333333,Susceptible,Yes
+BE3-7514-T2-ITS,Pinus sylvestris needles collected from tree genotype 7514 at timepoint T2,7514,T2,EP4,A02,"""Hyper-oceanic""",BE,BE3,7,17,A,-6.166666666,Susceptible,47.33333333,Susceptible,Yes
+BE3-7514-T3-ITS,Pinus sylvestris needles collected from tree genotype 7514 at timepoint T3,7514,T3,EP7,G02,"""Hyper-oceanic""",BE,BE3,7,17,A,-6.166666666,Susceptible,47.33333333,Susceptible,Yes
+CG3-7515-T2-ITS,Pinus sylvestris needles collected from tree genotype 7515 at timepoint T2,7515,T2,EP6_and_EP9,D04,"""Hyper-oceanic""",CG,CG3,6,17,A,-11.08333333,Average,58.66666667,Susceptible,No
+CG3-7515-T3-ITS,Pinus sylvestris needles collected from tree genotype 7515 at timepoint T3,7515,T3,EP6_and_EP9,D01,"""Hyper-oceanic""",CG,CG3,6,17,A,-11.08333333,Average,58.66666667,Susceptible,No
+CG8-7522-T1-ITS,Pinus sylvestris needles collected from tree genotype 7522 at timepoint T1,7522,T1,EP2,D01,"""Hyper-oceanic""",CG,CG8,7,17,B,-13.03333333,Resistant,10.26666667,Resistant,No
+CG8-7522-T2-ITS,Pinus sylvestris needles collected from tree genotype 7522 at timepoint T2,7522,T2,EP5,A08,"""Hyper-oceanic""",CG,CG8,7,17,B,-13.03333333,Resistant,10.26666667,Resistant,No
+CG8-7522-T3-ITS,Pinus sylvestris needles collected from tree genotype 7522 at timepoint T3,7522,T3,EP8,G02,"""Hyper-oceanic""",CG,CG8,7,17,B,-13.03333333,Resistant,10.26666667,Resistant,No
+RM1-7523-T1-ITS,Pinus sylvestris needles collected from tree genotype 7523 at timepoint T1,7523,T1,EP2,B02,Cairngorms,RM,RM1,6,17,B,-7.133333334,Average,23.33333333,Average,No
+RM1-7523-T2-ITS,Pinus sylvestris needles collected from tree genotype 7523 at timepoint T2,7523,T2,EP5,E09,Cairngorms,RM,RM1,6,17,B,-7.133333334,Average,23.33333333,Average,No
+RM1-7523-T3-ITS,Pinus sylvestris needles collected from tree genotype 7523 at timepoint T3,7523,T3,EP6_and_EP9,B04,Cairngorms,RM,RM1,6,17,B,-7.133333334,Average,23.33333333,Average,No
+GE2-7530-T1-ITS,Pinus sylvestris needles collected from tree genotype 7530 at timepoint T1,7530,T1,EP1,F02,"""Central Atlantic""",GE,GE2,7,17,C,-3.766666666,Susceptible,50.4,Susceptible,Yes
+GE2-7530-T2-ITS,Pinus sylvestris needles collected from tree genotype 7530 at timepoint T2,7530,T2,EP4,B04,"""Central Atlantic""",GE,GE2,7,17,C,-3.766666666,Susceptible,50.4,Susceptible,Yes
+GE2-7530-T3-ITS,Pinus sylvestris needles collected from tree genotype 7530 at timepoint T3,7530,T3,EP6_and_EP9,G03,"""Central Atlantic""",GE,GE2,7,17,C,-3.766666666,Susceptible,50.4,Susceptible,Yes
+BW10-7534-T1-ITS,Pinus sylvestris needles collected from tree genotype 7534 at timepoint T1,7534,T1,EP3,D01,"""Central Atlantic""",BW,BW10,3,17,C,-8.633333334,Average,14.46666667,Resistant,Yes
+BW10-7534-T2-ITS,Pinus sylvestris needles collected from tree genotype 7534 at timepoint T2,7534,T2,EP6_and_EP9,A01,"""Central Atlantic""",BW,BW10,3,17,C,-8.633333334,Average,14.46666667,Resistant,Yes
+BW10-7534-T3-ITS,Pinus sylvestris needles collected from tree genotype 7534 at timepoint T3,7534,T3,EP6_and_EP9,C04,"""Central Atlantic""",BW,BW10,3,17,C,-8.633333334,Average,14.46666667,Resistant,Yes
+GC9-7537-T1-ITS,Pinus sylvestris needles collected from tree genotype 7537 at timepoint T1,7537,T1,EP1,C11,"""Central Atlantic""",GC,GC9,8,17,D,-12.26666667,Resistant,8.666666666,Resistant,No
+GC9-7537-T2-ITS,Pinus sylvestris needles collected from tree genotype 7537 at timepoint T2,7537,T2,EP5,B02,"""Central Atlantic""",GC,GC9,8,17,D,-12.26666667,Resistant,8.666666666,Resistant,No
+GC9-7537-T3-ITS,Pinus sylvestris needles collected from tree genotype 7537 at timepoint T3,7537,T3,EP7,H05,"""Central Atlantic""",GC,GC9,8,17,D,-12.26666667,Resistant,8.666666666,Resistant,No
+RM3-7538-T1-ITS,Pinus sylvestris needles collected from tree genotype 7538 at timepoint T1,7538,T1,EP3,A03,Cairngorms,RM,RM3,7,17,D,-7.6,Average,19.2,Average,Yes
+RM3-7538-T2-ITS,Pinus sylvestris needles collected from tree genotype 7538 at timepoint T2,7538,T2,EP5,H02,Cairngorms,RM,RM3,7,17,D,-7.6,Average,19.2,Average,Yes
+RM3-7538-T3-ITS,Pinus sylvestris needles collected from tree genotype 7538 at timepoint T3,7538,T3,EP7,D09,Cairngorms,RM,RM3,7,17,D,-7.6,Average,19.2,Average,Yes
+AC8-7541-T1-ITS,Pinus sylvestris needles collected from tree genotype 7541 at timepoint T1,7541,T1,EP1,A05,Cairngorms,AC,AC8,4,17,D,-4.933333334,Susceptible,21.2,Average,No
+AC8-7541-T2-ITS,Pinus sylvestris needles collected from tree genotype 7541 at timepoint T2,7541,T2,EP5,E12,Cairngorms,AC,AC8,4,17,D,-4.933333334,Susceptible,21.2,Average,No
+AC8-7541-T3-ITS,Pinus sylvestris needles collected from tree genotype 7541 at timepoint T3,7541,T3,EP7,F02,Cairngorms,AC,AC8,4,17,D,-4.933333334,Susceptible,21.2,Average,No
+BB2-7542-T1-ITS,Pinus sylvestris needles collected from tree genotype 7542 at timepoint T1,7542,T1,EP1,G06,Cairngorms,BB,BB2,3,17,D,-5,Susceptible,38.6,Average,Yes
+BB2-7542-T2-ITS,Pinus sylvestris needles collected from tree genotype 7542 at timepoint T2,7542,T2,EP6_and_EP9,H02,Cairngorms,BB,BB2,3,17,D,-5,Susceptible,38.6,Average,Yes
+BB2-7542-T3-ITS,Pinus sylvestris needles collected from tree genotype 7542 at timepoint T3,7542,T3,EP7,B06,Cairngorms,BB,BB2,3,17,D,-5,Susceptible,38.6,Average,Yes
+CG8-7544-T1-ITS,Pinus sylvestris needles collected from tree genotype 7544 at timepoint T1,7544,T1,EP1,F01,"""Hyper-oceanic""",CG,CG8,1,17,D,-9.183333332,Average,43.86666667,Susceptible,No
+CG8-7544-T2-ITS,Pinus sylvestris needles collected from tree genotype 7544 at timepoint T2,7544,T2,EP5,B11,"""Hyper-oceanic""",CG,CG8,1,17,D,-9.183333332,Average,43.86666667,Susceptible,No
+CG8-7544-T3-ITS,Pinus sylvestris needles collected from tree genotype 7544 at timepoint T3,7544,T3,EP7,D02,"""Hyper-oceanic""",CG,CG8,1,17,D,-9.183333332,Average,43.86666667,Susceptible,No
+CR10-7549-T1-ITS,Pinus sylvestris needles collected from tree genotype 7549 at timepoint T1,7549,T1,EP2,C10,"""Hyper-oceanic""",CR,CR10,4,18,A,-4.716666666,Susceptible,98.93333333,Susceptible,No
+CR10-7549-T2-ITS,Pinus sylvestris needles collected from tree genotype 7549 at timepoint T2,7549,T2,EP6_and_EP9,B05,"""Hyper-oceanic""",CR,CR10,4,18,A,-4.716666666,Susceptible,98.93333333,Susceptible,No
+CR10-7549-T3-ITS,Pinus sylvestris needles collected from tree genotype 7549 at timepoint T3,7549,T3,EP7,G11,"""Hyper-oceanic""",CR,CR10,4,18,A,-4.716666666,Susceptible,98.93333333,Susceptible,No
+CG6-7551-T2-ITS,Pinus sylvestris needles collected from tree genotype 7551 at timepoint T2,7551,T2,EP4,G04,"""Hyper-oceanic""",CG,CG6,2,18,A,-14.3,Resistant,26.6,Average,No
+CG6-7551-T3-ITS,Pinus sylvestris needles collected from tree genotype 7551 at timepoint T3,7551,T3,EP7,D07,"""Hyper-oceanic""",CG,CG6,2,18,A,-14.3,Resistant,26.6,Average,No
+GE2-7555-T1-ITS,Pinus sylvestris needles collected from tree genotype 7555 at timepoint T1,7555,T1,EP2,C02,"""Central Atlantic""",GE,GE2,6,18,B,-12.73333333,Resistant,14.46666667,Resistant,Yes
+GE2-7555-T2-ITS,Pinus sylvestris needles collected from tree genotype 7555 at timepoint T2,7555,T2,EP6_and_EP9,G02,"""Central Atlantic""",GE,GE2,6,18,B,-12.73333333,Resistant,14.46666667,Resistant,Yes
+GE2-7555-T3-ITS,Pinus sylvestris needles collected from tree genotype 7555 at timepoint T3,7555,T3,EP8,F12,"""Central Atlantic""",GE,GE2,6,18,B,-12.73333333,Resistant,14.46666667,Resistant,Yes
+BW6-7567-T1-ITS,Pinus sylvestris needles collected from tree genotype 7567 at timepoint T1,7567,T1,EP1,G03,"""Central Atlantic""",BW,BW6,2,18,C,-2.533333334,Susceptible,15.73333333,Average,No
+BW6-7567-T2-ITS,Pinus sylvestris needles collected from tree genotype 7567 at timepoint T2,7567,T2,EP4,D11,"""Central Atlantic""",BW,BW6,2,18,C,-2.533333334,Susceptible,15.73333333,Average,No
+BW6-7567-T3-ITS,Pinus sylvestris needles collected from tree genotype 7567 at timepoint T3,7567,T3,EP6_and_EP9,A01,"""Central Atlantic""",BW,BW6,2,18,C,-2.533333334,Susceptible,15.73333333,Average,No
+GT2-7573-T1-ITS,Pinus sylvestris needles collected from tree genotype 7573 at timepoint T1,7573,T1,EP1,G10,Cairngorms,GT,GT2,4,18,D,-8.6,Average,34.6,Average,No
+GT2-7573-T2-ITS,Pinus sylvestris needles collected from tree genotype 7573 at timepoint T2,7573,T2,EP5,E01,Cairngorms,GT,GT2,4,18,D,-8.6,Average,34.6,Average,No
+GT2-7573-T3-ITS,Pinus sylvestris needles collected from tree genotype 7573 at timepoint T3,7573,T3,EP7,E02,Cairngorms,GT,GT2,4,18,D,-8.6,Average,34.6,Average,No
+CG7-7574-T1-ITS,Pinus sylvestris needles collected from tree genotype 7574 at timepoint T1,7574,T1,EP3,H04,"""Hyper-oceanic""",CG,CG7,3,18,D,-13.6,Resistant,15.2,Average,Yes
+CG7-7574-T2-ITS,Pinus sylvestris needles collected from tree genotype 7574 at timepoint T2,7574,T2,EP5,B09,"""Hyper-oceanic""",CG,CG7,3,18,D,-13.6,Resistant,15.2,Average,Yes
+CG7-7574-T3-ITS,Pinus sylvestris needles collected from tree genotype 7574 at timepoint T3,7574,T3,EP7,F09,"""Hyper-oceanic""",CG,CG7,3,18,D,-13.6,Resistant,15.2,Average,Yes
+GE7-7575-T1-ITS,Pinus sylvestris needles collected from tree genotype 7575 at timepoint T1,7575,T1,EP1,E11,"""Central Atlantic""",GE,GE7,2,18,D,-4.266666668,Susceptible,28.00000001,Average,No
+GE7-7575-T2-ITS,Pinus sylvestris needles collected from tree genotype 7575 at timepoint T2,7575,T2,EP5,H01,"""Central Atlantic""",GE,GE7,2,18,D,-4.266666668,Susceptible,28.00000001,Average,No
+GE7-7575-T3-ITS,Pinus sylvestris needles collected from tree genotype 7575 at timepoint T3,7575,T3,EP7,A12,"""Central Atlantic""",GE,GE7,2,18,D,-4.266666668,Susceptible,28.00000001,Average,No
+BW7-7581-T1-ITS,Pinus sylvestris needles collected from tree genotype 7581 at timepoint T1,7581,T1,EP2,F07,"""Central Atlantic""",BW,BW7,4,19,A,-11.06666667,Average,35.33333333,Average,No
+BW7-7581-T2-ITS,Pinus sylvestris needles collected from tree genotype 7581 at timepoint T2,7581,T2,EP6_and_EP9,G01,"""Central Atlantic""",BW,BW7,4,19,A,-11.06666667,Average,35.33333333,Average,No
+BW7-7581-T3-ITS,Pinus sylvestris needles collected from tree genotype 7581 at timepoint T3,7581,T3,EP7,F06,"""Central Atlantic""",BW,BW7,4,19,A,-11.06666667,Average,35.33333333,Average,No
+GC8-7582-T1-ITS,Pinus sylvestris needles collected from tree genotype 7582 at timepoint T1,7582,T1,EP2,A04,"""Central Atlantic""",GC,GC8,3,19,A,-6.866666666,Susceptible,38,Average,No
+GC8-7582-T2-ITS,Pinus sylvestris needles collected from tree genotype 7582 at timepoint T2,7582,T2,EP4,F05,"""Central Atlantic""",GC,GC8,3,19,A,-6.866666666,Susceptible,38,Average,No
+GC8-7582-T3-ITS,Pinus sylvestris needles collected from tree genotype 7582 at timepoint T3,7582,T3,EP7,B07,"""Central Atlantic""",GC,GC8,3,19,A,-6.866666666,Susceptible,38,Average,No
+BE7-7585-T1-ITS,Pinus sylvestris needles collected from tree genotype 7585 at timepoint T1,7585,T1,EP2,E02,"""Hyper-oceanic""",BE,BE7,8,19,B,-10.3,Average,28.66666667,Average,No
+BE7-7585-T2-ITS,Pinus sylvestris needles collected from tree genotype 7585 at timepoint T2,7585,T2,EP6_and_EP9,H05,"""Hyper-oceanic""",BE,BE7,8,19,B,-10.3,Average,28.66666667,Average,No
+BE7-7585-T3-ITS,Pinus sylvestris needles collected from tree genotype 7585 at timepoint T3,7585,T3,EP8,A04,"""Hyper-oceanic""",BE,BE7,8,19,B,-10.3,Average,28.66666667,Average,No
+GC9-7589-T1-ITS,Pinus sylvestris needles collected from tree genotype 7589 at timepoint T1,7589,T1,EP3,A04,"""Central Atlantic""",GC,GC9,4,19,B,-6.3,Susceptible,8.666666666,Resistant,No
+GC9-7589-T2-ITS,Pinus sylvestris needles collected from tree genotype 7589 at timepoint T2,7589,T2,EP5,D01,"""Central Atlantic""",GC,GC9,4,19,B,-6.3,Susceptible,8.666666666,Resistant,No
+GC9-7589-T3-ITS,Pinus sylvestris needles collected from tree genotype 7589 at timepoint T3,7589,T3,EP8,H08,"""Central Atlantic""",GC,GC9,4,19,B,-6.3,Susceptible,8.666666666,Resistant,No
+BB2-7590-T1-ITS,Pinus sylvestris needles collected from tree genotype 7590 at timepoint T1,7590,T1,EP2,F03,Cairngorms,BB,BB2,3,19,B,-5.133333334,Susceptible,17.8,Average,Yes
+BB2-7590-T2-ITS,Pinus sylvestris needles collected from tree genotype 7590 at timepoint T2,7590,T2,EP5,G01,Cairngorms,BB,BB2,3,19,B,-5.133333334,Susceptible,17.8,Average,Yes
+BB2-7590-T3-ITS,Pinus sylvestris needles collected from tree genotype 7590 at timepoint T3,7590,T3,EP8,G01,Cairngorms,BB,BB2,3,19,B,-5.133333334,Susceptible,17.8,Average,Yes
+AC7-7592-T1-ITS,Pinus sylvestris needles collected from tree genotype 7592 at timepoint T1,7592,T1,EP2,E06,Cairngorms,AC,AC7,1,19,B,-7.8,Average,14,Resistant,No
+AC7-7592-T2-ITS,Pinus sylvestris needles collected from tree genotype 7592 at timepoint T2,7592,T2,EP5,B07,Cairngorms,AC,AC7,1,19,B,-7.8,Average,14,Resistant,No
+AC7-7592-T3-ITS,Pinus sylvestris needles collected from tree genotype 7592 at timepoint T3,7592,T3,EP8,E02,Cairngorms,AC,AC7,1,19,B,-7.8,Average,14,Resistant,No
+BW7-7593-T1-ITS,Pinus sylvestris needles collected from tree genotype 7593 at timepoint T1,7593,T1,EP1,C06,"""Central Atlantic""",BW,BW7,8,19,C,-5.933333334,Susceptible,25.93333333,Average,No
+BW7-7593-T2-ITS,Pinus sylvestris needles collected from tree genotype 7593 at timepoint T2,7593,T2,EP4,A08,"""Central Atlantic""",BW,BW7,8,19,C,-5.933333334,Susceptible,25.93333333,Average,No
+BW7-7593-T3-ITS,Pinus sylvestris needles collected from tree genotype 7593 at timepoint T3,7593,T3,EP8,A01,"""Central Atlantic""",BW,BW7,8,19,C,-5.933333334,Susceptible,25.93333333,Average,No
+BW3-7594-T1-ITS,Pinus sylvestris needles collected from tree genotype 7594 at timepoint T1,7594,T1,EP1,A04,"""Central Atlantic""",BW,BW3,7,19,C,-7,Susceptible,12.4,Resistant,No
+BW3-7594-T2-ITS,Pinus sylvestris needles collected from tree genotype 7594 at timepoint T2,7594,T2,EP4,B08,"""Central Atlantic""",BW,BW3,7,19,C,-7,Susceptible,12.4,Resistant,No
+BW3-7594-T3-ITS,Pinus sylvestris needles collected from tree genotype 7594 at timepoint T3,7594,T3,EP6_and_EP9,H04,"""Central Atlantic""",BW,BW3,7,19,C,-7,Susceptible,12.4,Resistant,No
+GT6-7595-T1-ITS,Pinus sylvestris needles collected from tree genotype 7595 at timepoint T1,7595,T1,EP1,E05,Cairngorms,GT,GT6,6,19,C,-9.533333334,Average,22.53333333,Average,No
+GT6-7595-T2-ITS,Pinus sylvestris needles collected from tree genotype 7595 at timepoint T2,7595,T2,EP4,D06,Cairngorms,GT,GT6,6,19,C,-9.533333334,Average,22.53333333,Average,No
+GT6-7595-T3-ITS,Pinus sylvestris needles collected from tree genotype 7595 at timepoint T3,7595,T3,EP8,F08,Cairngorms,GT,GT6,6,19,C,-9.533333334,Average,22.53333333,Average,No
+BB5-7600-T1-ITS,Pinus sylvestris needles collected from tree genotype 7600 at timepoint T1,7600,T1,EP3,G07,Cairngorms,BB,BB5,1,19,C,-2.233333334,Susceptible,64.26666667,Susceptible,Yes
+BB5-7600-T2-ITS,Pinus sylvestris needles collected from tree genotype 7600 at timepoint T2,7600,T2,EP6_and_EP9,B02,Cairngorms,BB,BB5,1,19,C,-2.233333334,Susceptible,64.26666667,Susceptible,Yes
+BB5-7600-T3-ITS,Pinus sylvestris needles collected from tree genotype 7600 at timepoint T3,7600,T3,EP8,B08,Cairngorms,BB,BB5,1,19,C,-2.233333334,Susceptible,64.26666667,Susceptible,Yes
+BE4-7607-T1-ITS,Pinus sylvestris needles collected from tree genotype 7607 at timepoint T1,7607,T1,EP1,G02,"""Hyper-oceanic""",BE,BE4,2,19,D,-11.31666667,Average,20.66666667,Average,No
+BE4-7607-T2-ITS,Pinus sylvestris needles collected from tree genotype 7607 at timepoint T2,7607,T2,EP5,C01,"""Hyper-oceanic""",BE,BE4,2,19,D,-11.31666667,Average,20.66666667,Average,No
+BE4-7607-T3-ITS,Pinus sylvestris needles collected from tree genotype 7607 at timepoint T3,7607,T3,EP7,B12,"""Hyper-oceanic""",BE,BE4,2,19,D,-11.31666667,Average,20.66666667,Average,No
+RM3-7609-T1-ITS,Pinus sylvestris needles collected from tree genotype 7609 at timepoint T1,7609,T1,EP2,H07,Cairngorms,RM,RM3,8,20,A,-8.2,Average,46.93333333,Susceptible,No
+RM3-7609-T2-ITS,Pinus sylvestris needles collected from tree genotype 7609 at timepoint T2,7609,T2,EP4,E03,Cairngorms,RM,RM3,8,20,A,-8.2,Average,46.93333333,Susceptible,No
+RM3-7609-T3-ITS,Pinus sylvestris needles collected from tree genotype 7609 at timepoint T3,7609,T3,EP7,H09,Cairngorms,RM,RM3,8,20,A,-8.2,Average,46.93333333,Susceptible,No
+AC7-7611-T1-ITS,Pinus sylvestris needles collected from tree genotype 7611 at timepoint T1,7611,T1,EP2,B07,Cairngorms,AC,AC7,6,20,A,-3.5,Susceptible,97.26666667,Susceptible,No
+AC7-7611-T2-ITS,Pinus sylvestris needles collected from tree genotype 7611 at timepoint T2,7611,T2,EP4,E02,Cairngorms,AC,AC7,6,20,A,-3.5,Susceptible,97.26666667,Susceptible,No
+AC7-7611-T3-ITS,Pinus sylvestris needles collected from tree genotype 7611 at timepoint T3,7611,T3,EP7,A04,Cairngorms,AC,AC7,6,20,A,-3.5,Susceptible,97.26666667,Susceptible,No
+GT6-7618-T1-ITS,Pinus sylvestris needles collected from tree genotype 7618 at timepoint T1,7618,T1,EP2,G05,Cairngorms,GT,GT6,7,20,B,-9.2,Average,9.066666666,Resistant,No
+GT6-7618-T2-ITS,Pinus sylvestris needles collected from tree genotype 7618 at timepoint T2,7618,T2,EP5,B04,Cairngorms,GT,GT6,7,20,B,-9.2,Average,9.066666666,Resistant,No
+GT6-7618-T3-ITS,Pinus sylvestris needles collected from tree genotype 7618 at timepoint T3,7618,T3,EP8,F10,Cairngorms,GT,GT6,7,20,B,-9.2,Average,9.066666666,Resistant,No
+CR3-7619-T1-ITS,Pinus sylvestris needles collected from tree genotype 7619 at timepoint T1,7619,T1,EP2,H05,"""Hyper-oceanic""",CR,CR3,6,20,B,-11.1,Average,23.13333333,Average,No
+CR3-7619-T2-ITS,Pinus sylvestris needles collected from tree genotype 7619 at timepoint T2,7619,T2,EP5,E06,"""Hyper-oceanic""",CR,CR3,6,20,B,-11.1,Average,23.13333333,Average,No
+CR3-7619-T3-ITS,Pinus sylvestris needles collected from tree genotype 7619 at timepoint T3,7619,T3,EP6_and_EP9,G02,"""Hyper-oceanic""",CR,CR3,6,20,B,-11.1,Average,23.13333333,Average,No
+RM4-7620-T1-ITS,Pinus sylvestris needles collected from tree genotype 7620 at timepoint T1,7620,T1,EP2,G06,Cairngorms,RM,RM4,5,20,B,-9.9,Average,15.6,Average,Yes
+RM4-7620-T2-ITS,Pinus sylvestris needles collected from tree genotype 7620 at timepoint T2,7620,T2,EP5,A06,Cairngorms,RM,RM4,5,20,B,-9.9,Average,15.6,Average,Yes
+RM4-7620-T3-ITS,Pinus sylvestris needles collected from tree genotype 7620 at timepoint T3,7620,T3,EP8,D10,Cairngorms,RM,RM4,5,20,B,-9.9,Average,15.6,Average,Yes
+RM3-7623-T1-ITS,Pinus sylvestris needles collected from tree genotype 7623 at timepoint T1,7623,T1,EP2,E07,Cairngorms,RM,RM3,2,20,B,-9.9,Average,35.2,Average,Yes
+RM3-7623-T2-ITS,Pinus sylvestris needles collected from tree genotype 7623 at timepoint T2,7623,T2,EP5,F03,Cairngorms,RM,RM3,2,20,B,-9.9,Average,35.2,Average,Yes
+RM3-7623-T3-ITS,Pinus sylvestris needles collected from tree genotype 7623 at timepoint T3,7623,T3,EP8,E12,Cairngorms,RM,RM3,2,20,B,-9.9,Average,35.2,Average,Yes
+BW2-7628-T1-ITS,Pinus sylvestris needles collected from tree genotype 7628 at timepoint T1,7628,T1,EP1,E03,"""Central Atlantic""",BW,BW2,5,20,C,-9.533333332,Average,15.26666667,Average,Yes
+BW2-7628-T2-ITS,Pinus sylvestris needles collected from tree genotype 7628 at timepoint T2,7628,T2,EP4,E04,"""Central Atlantic""",BW,BW2,5,20,C,-9.533333332,Average,15.26666667,Average,Yes
+BW2-7628-T3-ITS,Pinus sylvestris needles collected from tree genotype 7628 at timepoint T3,7628,T3,EP8,A07,"""Central Atlantic""",BW,BW2,5,20,C,-9.533333332,Average,15.26666667,Average,Yes
+BW10-7633-T1-ITS,Pinus sylvestris needles collected from tree genotype 7633 at timepoint T1,7633,T1,EP3,B02,"""Central Atlantic""",BW,BW10,8,20,D,-8,Average,9.066666666,Resistant,Yes
+BW10-7633-T2-ITS,Pinus sylvestris needles collected from tree genotype 7633 at timepoint T2,7633,T2,EP6_and_EP9,G03,"""Central Atlantic""",BW,BW10,8,20,D,-8,Average,9.066666666,Resistant,Yes
+BW10-7633-T3-ITS,Pinus sylvestris needles collected from tree genotype 7633 at timepoint T3,7633,T3,EP7,E05,"""Central Atlantic""",BW,BW10,8,20,D,-8,Average,9.066666666,Resistant,Yes
+GE1-7638-T1-ITS,Pinus sylvestris needles collected from tree genotype 7638 at timepoint T1,7638,T1,EP1,F05,"""Central Atlantic""",GE,GE1,3,20,D,-11.9,Average,22.93333333,Average,No
+GE1-7638-T2-ITS,Pinus sylvestris needles collected from tree genotype 7638 at timepoint T2,7638,T2,EP5,G08,"""Central Atlantic""",GE,GE1,3,20,D,-11.9,Average,22.93333333,Average,No
+GE1-7638-T3-ITS,Pinus sylvestris needles collected from tree genotype 7638 at timepoint T3,7638,T3,EP7,H12,"""Central Atlantic""",GE,GE1,3,20,D,-11.9,Average,22.93333333,Average,No
+CR3-7642-T1-ITS,Pinus sylvestris needles collected from tree genotype 7642 at timepoint T1,7642,T1,EP2,E01,"""Hyper-oceanic""",CR,CR3,7,21,A,-14.33333333,Resistant,18.93333333,Average,No
+CR3-7642-T2-ITS,Pinus sylvestris needles collected from tree genotype 7642 at timepoint T2,7642,T2,EP6_and_EP9,F05,"""Hyper-oceanic""",CR,CR3,7,21,A,-14.33333333,Resistant,18.93333333,Average,No
+CR3-7642-T3-ITS,Pinus sylvestris needles collected from tree genotype 7642 at timepoint T3,7642,T3,EP6_and_EP9,C02,"""Hyper-oceanic""",CR,CR3,7,21,A,-14.33333333,Resistant,18.93333333,Average,No
+GE8-7645-T2-ITS,Pinus sylvestris needles collected from tree genotype 7645 at timepoint T2,7645,T2,EP4,D12,"""Central Atlantic""",GE,GE8,4,21,A,-11.93333333,Average,28.93333333,Average,No
+GE8-7645-T3-ITS,Pinus sylvestris needles collected from tree genotype 7645 at timepoint T3,7645,T3,EP7,B02,"""Central Atlantic""",GE,GE8,4,21,A,-11.93333333,Average,28.93333333,Average,No
+GE1-7647-T1-ITS,Pinus sylvestris needles collected from tree genotype 7647 at timepoint T1,7647,T1,EP2,C01,"""Central Atlantic""",GE,GE1,2,21,A,-13.8,Resistant,44.99999999,Susceptible,No
+GE1-7647-T2-ITS,Pinus sylvestris needles collected from tree genotype 7647 at timepoint T2,7647,T2,EP4,D09,"""Central Atlantic""",GE,GE1,2,21,A,-13.8,Resistant,44.99999999,Susceptible,No
+GE1-7647-T3-ITS,Pinus sylvestris needles collected from tree genotype 7647 at timepoint T3,7647,T3,EP7,A09,"""Central Atlantic""",GE,GE1,2,21,A,-13.8,Resistant,44.99999999,Susceptible,No
+CR7-7648-T1-ITS,Pinus sylvestris needles collected from tree genotype 7648 at timepoint T1,7648,T1,EP2,F02,"""Hyper-oceanic""",CR,CR7,1,21,A,-12.01666667,Resistant,40.93333333,Average,No
+CR7-7648-T2-ITS,Pinus sylvestris needles collected from tree genotype 7648 at timepoint T2,7648,T2,EP4,G03,"""Hyper-oceanic""",CR,CR7,1,21,A,-12.01666667,Resistant,40.93333333,Average,No
+CR7-7648-T3-ITS,Pinus sylvestris needles collected from tree genotype 7648 at timepoint T3,7648,T3,EP7,F12,"""Hyper-oceanic""",CR,CR7,1,21,A,-12.01666667,Resistant,40.93333333,Average,No
+CG3-7651-T1-ITS,Pinus sylvestris needles collected from tree genotype 7651 at timepoint T1,7651,T1,EP2,E10,"""Hyper-oceanic""",CG,CG3,6,21,B,-10.6,Average,25.2,Average,No
+CG3-7651-T2-ITS,Pinus sylvestris needles collected from tree genotype 7651 at timepoint T2,7651,T2,EP5,E03,"""Hyper-oceanic""",CG,CG3,6,21,B,-10.6,Average,25.2,Average,No
+CG3-7651-T3-ITS,Pinus sylvestris needles collected from tree genotype 7651 at timepoint T3,7651,T3,EP8,B01,"""Hyper-oceanic""",CG,CG3,6,21,B,-10.6,Average,25.2,Average,No
+CR7-7652-T1-ITS,Pinus sylvestris needles collected from tree genotype 7652 at timepoint T1,7652,T1,EP2,H11,"""Hyper-oceanic""",CR,CR7,5,21,B,-12.86666667,Resistant,12.26666667,Resistant,Yes
+CR7-7652-T2-ITS,Pinus sylvestris needles collected from tree genotype 7652 at timepoint T2,7652,T2,EP5,C11,"""Hyper-oceanic""",CR,CR7,5,21,B,-12.86666667,Resistant,12.26666667,Resistant,Yes
+CR7-7652-T3-ITS,Pinus sylvestris needles collected from tree genotype 7652 at timepoint T3,7652,T3,EP8,H11,"""Hyper-oceanic""",CR,CR7,5,21,B,-12.86666667,Resistant,12.26666667,Resistant,Yes
+CG7-7655-T1-ITS,Pinus sylvestris needles collected from tree genotype 7655 at timepoint T1,7655,T1,EP2,B12,"""Hyper-oceanic""",CG,CG7,2,21,B,-15.36666667,Resistant,12.2,Resistant,Yes
+CG7-7655-T2-ITS,Pinus sylvestris needles collected from tree genotype 7655 at timepoint T2,7655,T2,EP5,D10,"""Hyper-oceanic""",CG,CG7,2,21,B,-15.36666667,Resistant,12.2,Resistant,Yes
+CG7-7655-T3-ITS,Pinus sylvestris needles collected from tree genotype 7655 at timepoint T3,7655,T3,EP8,A12,"""Hyper-oceanic""",CG,CG7,2,21,B,-15.36666667,Resistant,12.2,Resistant,Yes
+BB3-7657-T1-ITS,Pinus sylvestris needles collected from tree genotype 7657 at timepoint T1,7657,T1,EP1,G09,Cairngorms,BB,BB3,8,21,C,-8.366666668,Average,17.86666667,Average,No
+BB3-7657-T2-ITS,Pinus sylvestris needles collected from tree genotype 7657 at timepoint T2,7657,T2,EP4,G06,Cairngorms,BB,BB3,8,21,C,-8.366666668,Average,17.86666667,Average,No
+BB3-7657-T3-ITS,Pinus sylvestris needles collected from tree genotype 7657 at timepoint T3,7657,T3,EP8,E09,Cairngorms,BB,BB3,8,21,C,-8.366666668,Average,17.86666667,Average,No
+GE7-7658-T1-ITS,Pinus sylvestris needles collected from tree genotype 7658 at timepoint T1,7658,T1,EP3,D07,"""Central Atlantic""",GE,GE7,7,21,C,-9.633333334,Average,26,Average,No
+GE7-7658-T2-ITS,Pinus sylvestris needles collected from tree genotype 7658 at timepoint T2,7658,T2,EP4,G12,"""Central Atlantic""",GE,GE7,7,21,C,-9.633333334,Average,26,Average,No
+GE7-7658-T3-ITS,Pinus sylvestris needles collected from tree genotype 7658 at timepoint T3,7658,T3,EP6_and_EP9,B02,"""Central Atlantic""",GE,GE7,7,21,C,-9.633333334,Average,26,Average,No
+AC9-7660-T1-ITS,Pinus sylvestris needles collected from tree genotype 7660 at timepoint T1,7660,T1,EP1,D02,Cairngorms,AC,AC9,5,21,C,-3.3,Susceptible,35.66666667,Average,No
+AC9-7660-T2-ITS,Pinus sylvestris needles collected from tree genotype 7660 at timepoint T2,7660,T2,EP6_and_EP9,E05,Cairngorms,AC,AC9,5,21,C,-3.3,Susceptible,35.66666667,Average,No
+AC9-7660-T3-ITS,Pinus sylvestris needles collected from tree genotype 7660 at timepoint T3,7660,T3,EP8,E11,Cairngorms,AC,AC9,5,21,C,-3.3,Susceptible,35.66666667,Average,No
+BE4-7663-T1-ITS,Pinus sylvestris needles collected from tree genotype 7663 at timepoint T1,7663,T1,EP1,H04,"""Hyper-oceanic""",BE,BE4,2,21,C,-6.1,Susceptible,7.6,Resistant,No
+BE4-7663-T2-ITS,Pinus sylvestris needles collected from tree genotype 7663 at timepoint T2,7663,T2,EP4,F12,"""Hyper-oceanic""",BE,BE4,2,21,C,-6.1,Susceptible,7.6,Resistant,No
+BE4-7663-T3-ITS,Pinus sylvestris needles collected from tree genotype 7663 at timepoint T3,7663,T3,EP8,E03,"""Hyper-oceanic""",BE,BE4,2,21,C,-6.1,Susceptible,7.6,Resistant,No
+RM1-7665-T1-ITS,Pinus sylvestris needles collected from tree genotype 7665 at timepoint T1,7665,T1,EP1,B04,Cairngorms,RM,RM1,8,21,D,-9.366666668,Average,14.4,Resistant,No
+RM1-7665-T2-ITS,Pinus sylvestris needles collected from tree genotype 7665 at timepoint T2,7665,T2,EP5,B05,Cairngorms,RM,RM1,8,21,D,-9.366666668,Average,14.4,Resistant,No
+RM1-7665-T3-ITS,Pinus sylvestris needles collected from tree genotype 7665 at timepoint T3,7665,T3,EP7,B11,Cairngorms,RM,RM1,8,21,D,-9.366666668,Average,14.4,Resistant,No
+CR4-7671-T1-ITS,Pinus sylvestris needles collected from tree genotype 7671 at timepoint T1,7671,T1,EP1,D06,"""Hyper-oceanic""",CR,CR4,2,21,D,-13.5,Resistant,14.2,Resistant,Yes
+CR4-7671-T2-ITS,Pinus sylvestris needles collected from tree genotype 7671 at timepoint T2,7671,T2,EP5,G04,"""Hyper-oceanic""",CR,CR4,2,21,D,-13.5,Resistant,14.2,Resistant,Yes
+CR4-7671-T3-ITS,Pinus sylvestris needles collected from tree genotype 7671 at timepoint T3,7671,T3,EP7,A06,"""Hyper-oceanic""",CR,CR4,2,21,D,-13.5,Resistant,14.2,Resistant,Yes

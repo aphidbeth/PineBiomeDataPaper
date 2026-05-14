@@ -1,0 +1,101 @@
+Sample_ID,Control_description,Control_type,Timepoint,Extraction_plate,Well
+EP1-Amp-Blank-T1-ITS,Negative control added at the amplicon PCR stage for extraction plate EP1,Amp-Blank,T1,EP1,E2
+EP2-Amp-Blank-T1-ITS,Negative control added at the amplicon PCR stage for extraction plate EP2,Amp-Blank,T1,EP2,F6
+EP3-Amp-Blank-T1-ITS,Negative control added at the amplicon PCR stage for extraction plate EP3,Amp-Blank,T1,EP3,G2
+EP1-DNAblank-T1-ITS,Negative control added at the DNA extraction stage for extraction plate EP1,DNAblank,T1,EP1,H11
+EP2-DNAblank-T1-ITS,Negative control added at the DNA extraction stage for extraction plate EP2,DNAblank,T1,EP2,D9
+EP3-DNAblank-T1-ITS,Negative control added at the DNA extraction stage for extraction plate EP3,DNAblank,T1,EP3,F4
+EP1-DNAblank-T1-ITS-Rep2,Negative control added at the DNA extraction stage for extraction plate EP3,DNAblank,T1,T1_repeats,G4
+EP1-Idx-Blank-T1-ITS,Negative control added at the indexing PCR stage for extraction plate EP1,Idx-Blank,T1,EP1,G1
+EP2-Idx-Blank-T1-ITS,Negative control added at the indexing PCR stage for extraction plate EP2,Idx-Blank,T1,EP2,E12
+EP3-Idx-Blank-T1-ITS,Negative control added at the indexing PCR stage for extraction plate EP3,Idx-Blank,T1,EP3,B3
+EP1-Pine-Rep1-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP1",Pine-Rep,T1,EP1,D5
+EP2-Pine-Rep1-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP2",Pine-Rep,T1,EP2,B1
+EP3-Pine-Rep1-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP3",Pine-Rep,T1,EP3,A1
+EP1-Pine-Rep2-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP1",Pine-Rep,T1,EP1,B6
+EP2-Pine-Rep2-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP2",Pine-Rep,T1,EP2,G2
+EP3-Pine-Rep2-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP3",Pine-Rep,T1,EP3,E3
+EP1-Pine-Rep3-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP1",Pine-Rep,T1,EP1,G8
+EP2-Pine-Rep3-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP2",Pine-Rep,T1,EP2,C8
+EP3-Pine-Rep3-T1-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP3",Pine-Rep,T1,EP3,C4
+EP1-Syn-Extr-T1-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP1,Syn-Extr,T1,EP1,A10
+EP2-Syn-Extr-T1-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP2,Syn-Extr,T1,EP2,H4
+EP3-Syn-Extr-T1-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP3,Syn-Extr,T1,EP3,F1
+EP1-Syn-Rep1-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP1,Syn-Rep,T1,EP1,F3
+EP2-Syn-Rep1-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP2,Syn-Rep,T1,EP2,F1
+EP3-Syn-Rep1-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP3,Syn-Rep,T1,EP3,A5
+EP1-Syn-Rep2-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP1,Syn-Rep,T1,EP1,C5
+EP2-Syn-Rep2-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP2,Syn-Rep,T1,EP2,B6
+EP3-Syn-Rep2-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP3,Syn-Rep,T1,EP3,H3
+EP1-Syn-Rep3-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP1,Syn-Rep,T1,EP1,G5
+EP2-Syn-Rep3-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP2,Syn-Rep,T1,EP2,H8
+EP3-Syn-Rep3-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP3,Syn-Rep,T1,EP3,E2
+EP1-Syn-Rep4-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP1,Syn-Rep,T1,EP1,F9
+EP2-Syn-Rep4-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP2,Syn-Rep,T1,EP2,C11
+EP3-Syn-Rep4-T1-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP3,Syn-Rep,T1,EP3,C2
+EP4-Amp-Blank-T2-ITS,Negative control added at the amplicon PCR stage for extraction plate EP4,Amp-Blank,T2,EP4,C12
+EP5-Amp-Blank-T2-ITS,Negative control added at the amplicon PCR stage for extraction plate EP5,Amp-Blank,T2,EP5,A2
+EP6-Amp-Blank-T2-ITS,Negative control added at the amplicon PCR stage for extraction plate EP6_and_EP9,Amp-Blank,T2,EP6_and_EP9,A6
+EP4-DNAblank-T2-ITS,Negative control added at the DNA extraction stage for extraction plate EP4,DNAblank,T2,EP4,B1
+EP5-DNAblank-T2-ITS,Negative control added at the DNA extraction stage for extraction plate EP5,DNAblank,T2,EP5,G7
+EP6-DNAblank-T2-ITS,Negative control added at the DNA extraction stage for extraction plate EP6_and_EP9,DNAblank,T2,EP6_and_EP9,H3
+EP4-Idx-Blank-T2-ITS,Negative control added at the indexing PCR stage for extraction plate EP4,Idx-Blank,T2,EP4,E5
+EP5-Idx-Blank-T2-ITS,Negative control added at the indexing PCR stage for extraction plate EP5,Idx-Blank,T2,EP5,C3
+EP6-Idx-Blank-T2-ITS,Negative control added at the indexing PCR stage for extraction plate EP6_and_EP9,Idx-Blank,T2,EP6_and_EP9,B1
+EP4-Pine-Rep1-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP4",Pine-Rep,T2,EP4,G2
+EP5-Pine-Rep1-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP5",Pine-Rep,T2,EP5,H3
+EP6-Pine-Rep1-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP6_and_EP9",Pine-Rep,T2,EP6_and_EP9,G5
+EP4-Pine-Rep2-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP4",Pine-Rep,T2,EP4,D3
+EP5-Pine-Rep2-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP5",Pine-Rep,T2,EP5,F5
+EP6-Pine-Rep2-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP6_and_EP9",Pine-Rep,T2,EP6_and_EP9,E1
+EP4-Pine-Rep3-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP4",Pine-Rep,T2,EP4,C7
+EP4-Pine-Rep3-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP5",Pine-Rep,T2,EP5,C7
+EP6-Pine-Rep3-T2-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP6_and_EP9",Pine-Rep,T2,EP6_and_EP9,D5
+EP4-Syn-Extr-T2-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP4,Syn-Extr,T2,EP4,H4
+EP5-Syn-Extr-T2-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP5,Syn-Extr,T2,EP5,F9
+EP6-Syn-Extr-T2-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP6_and_EP9,Syn-Extr,T2,EP6_and_EP9,C3
+EP4-Syn-Rep1-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP4,Syn-Rep,T2,EP4,F7
+EP5-Syn-Rep1-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP5,Syn-Rep,T2,EP5,F1
+EP6-Syn-Rep1-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP6_and_EP9,Syn-Rep,T2,EP6_and_EP9,B4
+EP4-Syn-Rep2-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP4,Syn-Rep,T2,EP4,E10
+EP5-Syn-Rep2-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP5,Syn-Rep,T2,EP5,C10
+EP6-Syn-Rep2-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP6_and_EP9,Syn-Rep,T2,EP6_and_EP9,A3
+EP4-Syn-Rep3-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP4,Syn-Rep,T2,EP4,A5
+EP5-Syn-Rep3-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP5,Syn-Rep,T2,EP5,D8
+EP6-Syn-Rep3-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP6_and_EP9,Syn-Rep,T2,EP6_and_EP9,E3
+EP4-Syn-Rep4-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP4,Syn-Rep,T2,EP4,G11
+EP5-Syn-Rep4-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP5,Syn-Rep,T2,EP5,H12
+EP6-Syn-Rep4-T2-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP6_and_EP9,Syn-Rep,T2,EP6_and_EP9,C2
+EP7-Amp-Blank-T3-ITS,Negative control added at the amplicon PCR stage for extraction plate EP7,Amp-Blank,T3,EP7,D1
+EP8-Amp-Blank-T3-ITS,Negative control added at the amplicon PCR stage for extraction plate EP8,Amp-Blank,T3,EP8,A11
+EP9-Amp-Blank-T3-ITS,Negative control added at the amplicon PCR stage for extraction plate EP6_and_EP9,Amp-Blank,T3,EP6_and_EP9,B7
+EP7-DNAblank-T3-ITS,Negative control added at the DNA extraction stage for extraction plate EP7,DNAblank,T3,EP7,G6
+EP8-DNAblank-T3-ITS,Negative control added at the DNA extraction stage for extraction plate EP8,DNAblank,T3,EP8,H3
+EP9-DNAblank-T3-ITS,Negative control added at the DNA extraction stage for extraction plate EP6_and_EP9,DNAblank,T3,EP6_and_EP9,A11
+EP7-Idx-Blank-T3-ITS,Negative control added at the indexing PCR stage for extraction plate EP7,Idx-Blank,T3,EP7,B5
+EP8-Idx-Blank-T3-ITS,Negative control added at the indexing PCR stage for extraction plate EP8,Idx-Blank,T3,EP8,B2
+EP9-Idx-Blank-T3-ITS,Negative control added at the indexing PCR stage for extraction plate EP6_and_EP9,Idx-Blank,T3,EP6_and_EP9,G10
+EP7-Pine-Rep1-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP7",Pine-Rep,T3,EP7,A2
+EP8-Pine-Rep1-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP8",Pine-Rep,T3,EP8,C10
+EP9-Pine-Rep1-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP6_and_EP9",Pine-Rep,T3,EP6_and_EP9,H7
+EP7-Pine-Rep2-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP7",Pine-Rep,T3,EP7,E9
+EP8-Pine-Rep2-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP8",Pine-Rep,T3,EP8,C5
+EP9-Pine-Rep2-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP6_and_EP9",Pine-Rep,T3,EP6_and_EP9,A9
+EP7-Pine-Rep3-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP7",Pine-Rep,T3,EP7,G10
+EP8-Pine-Rep3-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP8",Pine-Rep,T3,EP8,F7
+EP9-Pine-Rep3-T3-ITS,"Technical replicate of tree genotype 7142 collected at timepoint T1, included in extraction plate EP6_and_EP9",Pine-Rep,T3,EP6_and_EP9,F9
+EP7-Syn-Extr-T3-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP7,Syn-Extr,T3,EP7,G12
+EP8-Syn-Extr-T3-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP8,Syn-Extr,T3,EP8,G9
+EP9-Syn-Extr-T3-ITS,ZymoBIOMICS Microbial Community Standard (Cat. No. D6300) included in extraction plate EP6_and_EP9,Syn-Extr,T3,EP6_and_EP9,C9
+EP7-Syn-Rep1-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP7,Syn-Rep,T3,EP7,F3
+EP8-Syn-Rep1-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP8,Syn-Rep,T3,EP8,C2
+EP9-Syn-Rep1-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP6_and_EP9,Syn-Rep,T3,EP6_and_EP9,E8
+EP7-Syn-Rep2-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP7,Syn-Rep,T3,EP7,H8
+EP8-Syn-Rep2-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP8,Syn-Rep,T3,EP8,B7
+EP9-Syn-Rep2-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP6_and_EP9,Syn-Rep,T3,EP6_and_EP9,E11
+EP7-Syn-Rep3-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP7,Syn-Rep,T3,EP7,D10
+EP8-Syn-Rep3-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP8,Syn-Rep,T3,EP8,D12
+EP9-Syn-Rep3-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP6_and_EP9,Syn-Rep,T3,EP6_and_EP9,H9
+EP7-Syn-Rep4-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP7,Syn-Rep,T3,EP7,B9
+EP8-Syn-Rep4-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP8,Syn-Rep,T3,EP8,E1
+EP9-Syn-Rep4-T3-ITS,ZymoBIOMICS Microbial Community DNA Standard (Cat. No. D6306) included in extraction plate EP6_and_EP9,Syn-Rep,T3,EP6_and_EP9,A10
