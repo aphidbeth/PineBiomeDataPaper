@@ -1,0 +1,23 @@
+README
+
+This folder contains data associated with the PineBiome metabarcode sequencing libraries and downstream datasets
+
+There are five folders:
+#-----------------------#
+
+1. Qiime_artifacts
+This contains the qza outputs of the qiime pipeline and can be imported into R for downstream analysis. There is taxonomy file, representitive sequences file, OTU table, rooted tree and metadata per timepoint. 
+
+2. Sequences
+This folder contains the sequence and taxonomy tables (tsv files) outputted from the qiime pipeline. It can be used to cross reference OTU hashes to UNITE assigned species hypotheses and raw amplicon sequence
+
+3. OTU_tables
+This contains the processed OTU tables. These have had outliers and contaminants from the synthetic communities removed. There are two forms of the OTU table:
+  - <Timepoint>_min_clean_OTU.rds : RDS that captures the cleaned OTU table and associated taxonomy as a phyloseq object. This can be read directly into R. 
+  - <Timepoint>_min_clean_OTU_table.tsv : Tsv file with OTUs as rows and sample names as columns. Cross referencing with the sequences tables is necessary to assign species to the OTU.
+
+4. Supplementary_data
+This folder contains extract information associated with the metabarcoding bioinformatics including: 
+  - Sample_information: Planned and successfully sequenced tree samples
+  - Control_information: Planned and successfully sequenced control samples
+  - Read_stats: Information on the dropout of reads across the bioinformatic processing steps
