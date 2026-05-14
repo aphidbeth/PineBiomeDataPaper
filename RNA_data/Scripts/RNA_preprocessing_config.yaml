@@ -1,0 +1,147 @@
+# ===============================
+# RNA prep configuration file
+# ===============================
+
+# -------------------------------
+# Directories
+# -------------------------------
+# Filepaths redacted
+scratch_dir: # scratch directory
+proj_dir: # raw data files
+
+# Path to your centralized conda environments for snakemake to create rule-specific envs
+conda_prefix: # conda environments directory
+
+# -------------------------------
+# Rule-specific parameters
+# -------------------------------
+
+fastp_threads: 4
+fastp_qual_thresh: 20
+fastp_length_thresh: 50
+
+sortmerna_threads: 20
+sortmerna_dbs: # path to rRNA databases
+
+hisat2_threads: 20
+hisat2_host_index: # path to host genome index
+hisat2_nonhost_index: # path to non-host genome index
+
+# -------------------------------
+# Conda environments for rules
+# -------------------------------
+# These should point to the YAML files defining each environment
+# Place YAMLs somewhere accessible on the cluster
+
+# Moved cond envs from the snakemake folder to my apps to avoid repeated envs being created in each snakemake folder for each run. 
+conda_envs:
+  fastp: "fastp"
+  sortmerna: "sortmerna"
+  hisat2: "hisat2"
+
+# Yamls are retained for reproducibility. Conda envs were build from these yamls and are now being used in the snakemake file.
+conda_yamls:
+  fastp: # path to fastp conda yaml
+  sortmerna: # path to sortmerna conda yaml
+  hisat2: # path to hisat2 conda yaml
+
+# -------------------------------
+# Sample list
+# ------------------------------- 
+samples:
+  - T2_7002
+  - T2_7072
+  - T2_7143
+  - T2_7197
+  - T2_7294
+  - T2_7411
+  - T2_7507
+  - T2_7538
+  - T2_7600
+  - T2_7652
+  - T3_7053
+  - T3_7085
+  - T3_7154
+  - T3_7211
+  - T3_7362
+  - T3_7436
+  - T3_7514
+  - T3_7555
+  - T3_7623
+  - T3_7671
+  - T2_7025
+  - T2_7078
+  - T2_7148
+  - T2_7208
+  - T2_7326
+  - T2_7412
+  - T2_7510
+  - T2_7542
+  - T2_7620
+  - T2_7655
+  - T3_7055
+  - T3_7115
+  - T3_7156
+  - T3_7237
+  - T3_7383
+  - T3_7480
+  - T3_7530
+  - T3_7574
+  - T3_7628
+  - T2_7053
+  - T2_7085
+  - T2_7154
+  - T2_7211
+  - T2_7362
+  - T2_7436
+  - T2_7514
+  - T2_7555
+  - T2_7623
+  - T2_7671
+  - T3_7069
+  - T3_7128
+  - T3_7183
+  - T3_7276
+  - T3_7396
+  - T3_7500
+  - T3_7534
+  - T3_7590
+  - T3_7633
+  - T2_7055
+  - T2_7115
+  - T2_7156
+  - T2_7237
+  - T2_7383
+  - T2_7480
+  - T2_7530
+  - T2_7574
+  - T2_7628
+  - T3_7002
+  - T3_7072
+  - T3_7143
+  - T3_7197
+  - T3_7294
+  - T3_7411
+  - T3_7507
+  - T3_7538
+  - T3_7600
+  - T3_7652
+  - T2_7069
+  - T2_7128
+  - T2_7183
+  - T2_7276
+  - T2_7396
+  - T2_7500
+  - T2_7534
+  - T2_7590
+  - T2_7633
+  - T3_7025
+  - T3_7078
+  - T3_7148
+  - T3_7208
+  - T3_7326
+  - T3_7412
+  - T3_7510
+  - T3_7542
+  - T3_7620
+  - T3_7655
