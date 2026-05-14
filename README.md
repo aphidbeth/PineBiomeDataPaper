@@ -23,9 +23,9 @@ or can be imported directly into R from the rds objects:
 * [T3_ITS_min_clean_OTU.rds](https://github.com/aphidbeth/PineBiomeDataPaper/blob/main/Metabarcoding/Data/OTU_tables/T3_ITS_min_clean_OTU.rds)
 
 OTU are named by the feature hashes from the qiime pipeline. Relevant taxonomic information for these is included in the rds object or can be cross referenced with the "seqs-and-taxonomy" tables:
-* [seqs-and-taxonomy_T1_ITS.tsv](https://github.com/aphidbeth/PineBiomeDataPaper/blob/main/Metabarcoding/Data/seqs-and-taxonomy_T1_ITS.tsv)
-* [seqs-and-taxonomy_T2_ITS.tsv](https://github.com/aphidbeth/PineBiomeDataPaper/blob/main/Metabarcoding/Data/seqs-and-taxonomy_T2_ITS.tsv)
-* [seqs-and-taxonomy_T3_ITS.tsv](https://github.com/aphidbeth/PineBiomeDataPaper/blob/main/Metabarcoding/Data/seqs-and-taxonomy_T3_ITS.tsv)
+* [seqs-and-taxonomy_T1_ITS.tsv](https://github.com/aphidbeth/PineBiomeDataPaper/blob/main/Metabarcoding/Data/Sequences/seqs-and-taxonomy_T1_ITS.tsv)
+* [seqs-and-taxonomy_T2_ITS.tsv](https://github.com/aphidbeth/PineBiomeDataPaper/blob/main/Metabarcoding/Data/Sequences/seqs-and-taxonomy_T2_ITS.tsv)
+* [seqs-and-taxonomy_T3_ITS.tsv](https://github.com/aphidbeth/PineBiomeDataPaper/blob/main/Metabarcoding/Data/Sequences/seqs-and-taxonomy_T3_ITS.tsv)
 
 
 ## License
