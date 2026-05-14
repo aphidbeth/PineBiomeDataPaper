@@ -1,0 +1,39 @@
+README
+
+This folder contains scripts associated with the pinebiome metacode libraries
+
+There are three scripts run on the crop diversity HPC:
+#--------------------------------------------------------#
+
+1. Pine-Metabar-QC-generic.sh
+This script was run on each of the six sequencing libraries seperately. It runs fastp to perform basic filtering (trimming of poly-X tails and short reads).
+Input: raw reads
+Output: fastp filtered reads
+
+2. Run-itxpress-generic.sh
+This script was run on each of the six sequencing libraries seperately. It runs itxpress to remove trim reads to the ITS region
+Input: fastp filtered reads
+Output: trimmed and filtered reads
+
+3. metabar_snakefile.smk & config.yaml
+This is the main pipeline and runs qimme2 with dada2 denoise, sklearn for classification and performs additional filtering of mitochondrial and chloroplast reads.
+In addition it performs appropriate merging of datasets after denoising into the timepoints for downstream analysis. 
+Config details the parameters used. 
+Input: trimmed and filtered reads
+Output: qimme2 qza objects
+
+The remaining scripts process the qiime qza objects in R:
+#---------------------------------------------------------#
+
+4. Gather_read_stats.R
+This script parses the log files from the snakemake pipeline and outputs paired end reads throughout the filtering steps
+
+5. Processing_qiime_artifacts_to_OTU_tables.R
+This script takes the qiime qza objects and imports them into phyloseq. 
+It goes through some basic filtering of outliers and contaminants from the synthetic community then outputs a RDS object and a tsv for use as OTU tables.
+
+5. Summarise_control_samples
+This script summarises the planned controls and then those that failed during library prep or sequencing. 
+
+6. Summarise_tree_samples
+This script summarises the tree samples and those that failed during library prep or sequencing. 
