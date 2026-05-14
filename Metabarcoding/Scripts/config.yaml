@@ -1,0 +1,75 @@
+# SAMPLE LIST
+run_ID: 
+  - T1_run1_new
+  - T1_run2_new
+  - T2_run3_new
+  - T2_run4_new
+  - T3_run5_new
+  - T3_run6_new
+  
+# DIRECTORIES
+# filepaths redacted
+raw_reads_dir: 
+proj_dir: 
+cleaned_reads_16S: 
+cleaned_reads_ITS: 
+
+# CONDA ENV
+conda_env: "qiime2-amplicon-2024.5"
+
+# PRIMERS FOR CUTADAPT
+
+
+primers: 
+  16S_forward: "TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG"
+  16S_reverse: "GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG"
+  ITS_forward: "TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG"
+  ITS_reverse: "GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG"
+
+# PARAMETERS FOR DADA2 DENOISE
+# note no trimming with ITS as variable length and already trimmed with ITSexpress
+
+denoise_params:
+  16S:
+    T1_run1_new: " --p-trunc-len-f 0 --p-trunc-len-r 270 "
+    T1_run2_new: " --p-trunc-len-f 0 --p-trunc-len-r 270 "
+    T2_run3_new: " --p-trunc-len-f 0 --p-trunc-len-r 260 "
+    T2_run4_new: " --p-trunc-len-f 295 --p-trunc-len-r 260 "
+    T3_run5_new: " --p-trunc-len-f 0 --p-trunc-len-r 265 "
+    T3_run6_new: " --p-trunc-len-f 290 --p-trunc-len-r 265 "
+  ITS: 
+    T1_run1_new: " --p-trunc-len-f 0 --p-trunc-len-r 0 "
+    T1_run2_new: " --p-trunc-len-f 0 --p-trunc-len-r 0 "
+    T2_run3_new: " --p-trunc-len-f 0 --p-trunc-len-r 0 "
+    T2_run4_new: " --p-trunc-len-f 0 --p-trunc-len-r 0 "
+    T3_run5_new: " --p-trunc-len-f 0 --p-trunc-len-r 0 "
+    T3_run6_new: " --p-trunc-len-f 0 --p-trunc-len-r 0 "
+
+# CLASSIFIERS USED FOR TAXONOMIC IDENTIFICATION
+# 16S - SILVA version
+# ITS - UNITE version
+# Note the 16S classifier is trained on the V5-V7 region of the 16S gene but the ITS classifier is left full length.
+
+classifier_dir: 
+  16S: 
+  ITS: 
+
+
+# MINIMUM READ DEPTH NEEDED: 
+
+min_read_depth: 
+  16S:
+    T1: 1000
+    T2: 3000
+    T3: 7000
+  ITS: 
+    T1: 80000
+    T2: 120000
+    T3: 170000
+
+concentration_col: "extr_conc_ng_ul"
+
+merged_runs:
+  - T1
+  - T2
+  - T3
