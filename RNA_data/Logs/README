@@ -1,0 +1,13 @@
+README
+
+This folder contains output logs of read counts from the RNA processing scripts. 
+
+For each tree there is a log of:
+#--------------------------------#
+1. <Sample>_fastp.txt
+Reads filtered from each sample during the fastp processing
+
+2. Hisat-Alignment-Array<array_number>.out
+Hisat mapping in for each tree. Sample is found in the first row of each file. 
+
+There is also a summary of paired end reads remaining after sortmeRNA in rRNA_read_counts.txt
