@@ -1,6 +1,6 @@
 # PineBiomeDataPaper
 
-Scripts and files associated with the PineBiome project data paper "Metabarcode and transcriptome datasets of Pinus sylvestris to assess fungal phyllosphere and disease dynamics".
+Scripts and files associated with the PineBiome project data paper "Metabarcode and transcriptome datasets of Pinus sylvestris to assess fungal phyllosphere and disease dynamics". [![DOI](https://zenodo.org/badge/1237974155.svg)](https://doi.org/10.5281/zenodo.20179422)
 
 Information on the background of the study can be found at https://www.hutton.ac.uk/project/pinebiome/.
 
