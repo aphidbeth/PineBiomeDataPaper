@@ -7,6 +7,21 @@
 # Set up 
 #==========
 
+# # Install packages - uncomment to run 
+# #--------------------------------------------------------------------------
+# # We need the phyloseq library for importing qiime objects and some general
+# install.packages("tidyverse", lib = "C:/Users/BM43175/AppData/Local/R/win-library/4.4")
+# # NOTE: qiime2R requires devtools and Rtools to be compiled. Devtools is installed with usual install packages function but Rtools requires downloaded and running of an executable from the cran website:
+# if (!requireNamespace("devtools", quietly = TRUE)){install.packages("devtools")}
+# # Webpage for installing Rtools: https://cran.rstudio.com/bin/windows/Rtools/rtools44/rtools.html
+# # If Rtools and devtools are successfully installed, then install qiime2R:
+# devtools::install_github("jbisanz/qiime2R") # current version is 0.99.6
+# # NOTE: decontam requires installation from bioconductor:
+# if (!require("BiocManager", quietly = TRUE)){install.packages("BiocManager", "C:/Users/BM43175/AppData/Local/R/win-library/4.4")}
+# install.packages("microViz",repos = c(davidbarnett = "https://david-barnett.r-universe.dev", getOption("repos"))
+# BiocManager::install(c(phyloseq", "microbiome"), update = FALSE)
+
+
 library("tidyverse"); packageVersion("tidyverse")
 library("qiime2R"); packageVersion("qiime2R")
 library("phyloseq"); packageVersion("phyloseq")
@@ -386,21 +401,48 @@ my_colors <- c("#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd",
                "#aec7e8", "#ffbb78", "#98df8a", "#ff9896", "#c5b0d5",
                "#c49c94", "#f7b6d2", "#c7c7c7", "#dbdb8d", "#9edae5", "darkgrey")
 
-# Create named vector for shared classes
-T1_cols <- c(setNames(my_colors, shared_all), setNames(rep("black", times = length(T1_only)),T1_only))
-T2_cols <- c(setNames(my_colors, shared_all), setNames(rep("black", times = length(T2_only)),T2_only))
-T3_cols <- c(setNames(my_colors, shared_all), setNames(rep("black", times = length(T3_only)),T3_only))
 
 T1_tech_rep_bar_rel <- T1_ITS_physeq_subsets$tech_reps %>%  transform_sample_counts(., function(x) x / sum(x)) %>%  plot_bar(fill = "Class") + ggtitle("T1") + ylab("Relative Abundance")
 T2_tech_rep_bar_rel <- T2_ITS_physeq_subsets$tech_reps %>%  transform_sample_counts(., function(x) x / sum(x)) %>%  plot_bar(fill = "Class") + ggtitle("T2") + ylab("Relative Abundance")
 T3_tech_rep_bar_rel <- T3_ITS_physeq_subsets$tech_reps %>%  transform_sample_counts(., function(x) x / sum(x)) %>%  plot_bar(fill = "Class") + ggtitle("T3")+ ylab("Relative Abundance")
 
 
-datapaper_A <- T1_tech_rep_bar_rel  + geom_bar(aes(color=Class, fill=Class), stat="identity") + theme(legend.position = "None") + scale_color_manual(values = T1_cols) + scale_fill_manual(values = T1_cols) 
+# Get abundance ranking from all timepoints combined
+all_df <- bind_rows(
+  psmelt(transform_sample_counts(T1_ITS_physeq_subsets$tech_reps, function(x) x/sum(x))),
+  psmelt(transform_sample_counts(T2_ITS_physeq_subsets$tech_reps, function(x) x/sum(x))),
+  psmelt(transform_sample_counts(T3_ITS_physeq_subsets$tech_reps, function(x) x/sum(x)))
+)
 
-datapaper_B <-  T2_tech_rep_bar_rel  + geom_bar(aes(color=Class, fill=Class), stat="identity") + theme(legend.position = "None") + scale_color_manual(values = T2_cols) + scale_fill_manual(values = T2_cols) 
+class_order <- all_df %>%
+  group_by(Class) %>%
+  summarise(total_RA = sum(Abundance)) %>%
+  arrange(desc(total_RA)) %>%
+  pull(Class)
 
-datapaper_C <- T3_tech_rep_bar_rel  + geom_bar(aes(color=Class, fill=Class), stat="identity") + theme(legend.position = "None") + scale_color_manual(values = T3_cols) + scale_fill_manual(values = T3_cols) 
+class_order <- c(
+  class_order[!is.na(class_order)],
+  class_order[is.na(class_order)]
+) # Move NA to the end for plotting
+
+# Reorder colours:
+
+shared_ordered <- class_order[class_order %in% shared_all]
+
+T1_cols <- c(setNames(my_colors[seq_along(shared_ordered)], shared_ordered),setNames(rep("black", length(T1_only)), T1_only))
+T2_cols <- c(setNames(my_colors[seq_along(shared_ordered)], shared_ordered),setNames(rep("black", length(T2_only)), T2_only))
+T3_cols <- c(setNames(my_colors[seq_along(shared_ordered)], shared_ordered),setNames(rep("black", length(T3_only)), T3_only))
+
+T1_tech_rep_bar_rel$data$Class <- factor(T1_tech_rep_bar_rel$data$Class,levels = rev(class_order))
+T2_tech_rep_bar_rel$data$Class <- factor(T2_tech_rep_bar_rel$data$Class,levels = rev(class_order))
+T3_tech_rep_bar_rel$data$Class <- factor(T3_tech_rep_bar_rel$data$Class,levels = rev(class_order))
+
+
+datapaper_A <- T1_tech_rep_bar_rel  + geom_bar(aes(color=Class, fill=Class), stat="identity") + theme(legend.position = "None") + scale_color_manual(values = T1_cols, breaks = class_order) + scale_fill_manual(values = T1_cols, breaks = class_order) 
+
+datapaper_B <-  T2_tech_rep_bar_rel  + geom_bar(aes(color=Class, fill=Class), stat="identity") + theme(legend.position = "None") + scale_color_manual(values = T2_cols, breaks = class_order) + scale_fill_manual(values = T2_cols, breaks = class_order) 
+
+datapaper_C <- T3_tech_rep_bar_rel  + geom_bar(aes(color=Class, fill=Class), stat="identity") + theme(legend.position = "None") + scale_color_manual(values = T3_cols, breaks = class_order) + scale_fill_manual(values = T3_cols, breaks = class_order) 
 
 tech_reps_datapaper <- ggarrange(datapaper_A,
                                  datapaper_B,
