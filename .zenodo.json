@@ -1,0 +1,66 @@
+{
+  "title": "Metabarcode and transcriptome datasets of Pinus sylvestris to assess fungal phyllosphere and disease dynamics",
+  "description": "Scripts and data associated with https://doi.org/10.1038/s41597-026-08035-z" ,
+  "creators": [
+    {
+      "name": "Moore, Beth",
+      "affiliation": "The James Hutton Institute, Dundee, UK"
+    },
+    {
+      "name": "Perry, Annika",
+      "affiliation": "UK Centre for Ecology & Hydrology, Penicuik, UK"
+    },
+    {
+      "name": "Kaur, Sundeep",
+      "affiliation": "Forest Research, Alice Holt Lodge, Surrey, UK"
+    },
+    {
+      "name": "Crampton, Bridget",
+      "affiliation": "Forest Research, Alice Holt Lodge, Surrey, UK"
+    },
+    {
+      "name": "Gurung, Amir",
+      "affiliation": "Forest Research, Alice Holt Lodge, Surrey, UK"
+    },
+    {
+      "name": "Beaton, Joan K",
+      "affiliation": "The James Hutton Institute, Dundee, UK"
+    },
+    {
+      "name": "Cottrell, Joan E",
+      "affiliation": "Forest Research, Alice Holt Lodge, Surrey, UK"
+    },
+    {
+      "name": "Stockan, Jenni A",
+      "affiliation": "The James Hutton Institute, Dundee, UK"
+    },
+    {
+      "name": "Smith, V Anne",
+      "affiliation": "School of Biology, University of St Andrews, UK"
+    },
+    {
+      "name": "Morris, Jenny",
+      "affiliation": "The James Hutton Institute, Dundee, UK"
+    },
+    {
+      "name": "Hedley, Pete E",
+      "affiliation": "The James Hutton Institute, Dundee, UK"
+    },
+    {
+      "name": "Nemeth, Krisztian",
+      "affiliation": "UK Centre for Ecology & Hydrology, Penicuik, UK"
+    },
+    {
+      "name": "Barber, Hattie",
+      "affiliation": "UK Centre for Ecology & Hydrology, Penicuik, UK"
+    },
+    {
+      "name": "Cavers, Stephen",
+      "affiliation": "UK Centre for Ecology & Hydrology, Penicuik, UK"
+    },
+    {
+      "name": "Jones, Susan",
+      "affiliation": "The James Hutton Institute, Dundee, UK"
+    }
+  ]
+}
